@@ -19,7 +19,7 @@ Pricey:
 
 Thai:
 
-* [Ting Thai Caravan Club](https://bit.ly/3Rz7qKl) - Teviot Place - Shared seating Thai eatery. Always busy but for a reason - it's great for a quick eat, when you can get a seat. This is in the middle of the University of Edinburgh campus, so might contribute to it being as busy as mentioned. 
+* [Ting Thai Caravan Club](https://bit.ly/3Rz7qKl) - Teviot Place - Shared seating Thai eatery. Always busy but for a reason - it's great for a quick eat, when you can get a seat.
 * [Nok's Kitchen](https://bit.ly/3u2ksrP) - Stockbridge - This is a recommendation from /u/antoniomegareti/  - Their one word review for this establishment is "godly".
 
 Japanese:
@@ -77,7 +77,6 @@ Pizza:
 * [Razzo](https://bit.ly/46yjy4x) - Great Junction Street - This is on my list to visit - so far I've heard it's great
 * [Matto Pizza](https://bit.ly/3s6i2aO) - Multiple locations - This is a brand that has had some recent expansion due to local success. Great pizza. 
 * [Pizza Geeks](https://bit.ly/3rYHXkS) - Multiple locations - This place serves great pizza (in my opinion). 
-* [Froth & Flame](https://bit.ly/3QjrmjG) - Morrison Street - Another Neopolitan style pizza restaurant.
 * [San Ciro](https://bit.ly/3QMcYSJ) - Leith Walk - Former owner of Pizzeria 1926 
 
 Burgers:
