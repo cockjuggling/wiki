@@ -1,4 +1,4 @@
-## Coffee
+# Coffee
 
 This is not an exhastive list of independent coffee shops in Edinburgh, but they are worthy of a visit if you like your third wave coffee. This is not an ordered list and may be subject to change. 
 

@@ -1,4 +1,4 @@
-## **Hotels**
+# Hotels
 
 I cannot provide any recommendations for hotels with included spas - I'm a resident and don't need hotel accommodation. There are however lots of hotels dotted around the city. There is surely one to meet your budget and star rating. Usage of should give you a good idea of whats available.
 * [Hotels.com](https://bit.ly/3vdhTUj) 

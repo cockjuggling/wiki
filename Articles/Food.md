@@ -1,4 +1,4 @@
-# **Food**
+# Food
 
 I am not going to give any recommendations — in Edinburgh there are simply too many to mention. Below is a small subset of "Locally" owned establishments. I will not make mention of national chains or franchises of which there are many to pick and choose from it you like. 
 
@@ -10,12 +10,16 @@ Cheap:
 
 Pricey:
 
-* [Scran and Scallie](https://bit.ly/3Rvmwk6) - Comely Bank Rd - "Rustic Gastro Pub" — owned by Tim Kitchin. 
+* [Scran and Scallie](https://bit.ly/3Rvmwk6) - Comely Bank Rd - "Rustic Gastro Pub" — owned by Tim Kitchin.  However, some of the [working practices of Tim Kitchin might detract](https://bit.ly/3TqRk8h) from his culinary achievements. 
+* [Six by Nico](https://bit.ly/3RZFEZr) - Hanover Street - 6 course tasting menu that changes often to other regions. This is very much a marmite restaurants with the reddit community.
+* [The Kitchin](https://thekitchin.com/) - Commercial Quay, Leith. Again, another Tim Kitchen resteraunt. 
+* [The Purslane](http://www.purslanerestaurant.co.uk/) - St Stephen St, Edinburgh
+* [The Witchery](https://www.thewitchery.com/dine/) - Royal Mile, Edinburgh
 
-  However, some of the [working practices of Tim Kitchin might detract](https://bit.ly/3TqRk8h) from his culinary achievements. 
-  
-
-* [Six by Nico](https://bit.ly/3RZFEZr) - Hanover Street - 6 course tasting menu that changes often to other regions. This is very much a marmite restraunt with the reddit community
+Steak: 
+* [Kyloe](https://kyloerestaurant.com/) - Rutland Street . Edinburgh
+* [Chop House](https://chophousesteak.co.uk) - Market Street, Edinburgh
+* [Le Petit Beef Bar](https://beefbar.com/le-petit-beefbar-edinburgh/) - George Street, Edinburgh
 
 Thai:
 
@@ -48,23 +52,17 @@ French:
 Scottish: 
 
 * [Howies](http://bit.ly/3QBLzkw) - [Waterloo Place](http://bit.ly/3ZDzrnd) or [Victoria Street](http://bit.ly/3COhOY9) - Family owned Scottish restaurant. Always best of gear when I have visited. Booking not required, but recommended. 
-
 * [Scott's Kitchen](http://bit.ly/3X1RPod) - Victoria Terrace - An offshoot of Howies - Intriguing menu that I have only found and yet to sample - watch this space. 
-
 * Traditional [Haggis](http://bit.ly/3W97rVI)?
   * [Haggis Box](http://bit.ly/3X9OR13) have a concession in the [Story Telling Centre on the High Street](https://bit.ly/3RzqrMH). Best of gear. 
-
 * [Deep Fried Mars Bar](http://bit.ly/3w4WJFb)? 
   * [Cafe Picante](http://bit.ly/3X9gmrx) at the top of [Broughton Street](https://bit.ly/3WcdFEh) will service that need.
 
 Mexican:
 
 * [Taco Libre](https://bit.ly/3Fp9hMm) - Shandwick Place - This is on my list to visit. 
-
 * [El Jefes](https://bit.ly/3M6fdxq) - Nicholson Street - This is quite a new restaurant. I have yet to visit. 
-
 * [Chorito Cantina](https://bit.ly/48YJVlS) - Leith Walk - Although they primarily sell their sauces they also have seats to taste their products. 
-
 * [The Basement Bar](https://bit.ly/3PUgUPC) - Broughton Street - I have not been here in a few years, but it is highly rated. 
 
 Pizza: 

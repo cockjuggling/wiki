@@ -1,4 +1,4 @@
-# **Drinking Establishments**
+# Drinking Establishments
 
 Edinburgh has a number of drinking establishments to provide you with libations. There are far too many to mention for one wiki page. The list noted below is not exhaustive. If you have any to add please [get in touch](mailto:reddit@cockjuggling.uk?subject=wiki) and we'll update our wiki. 
 
