@@ -1,19 +1,21 @@
+# Festivals
+
 Edinburgh is blessed with a several festivals over the year. The list below summarises these and the month that they are  active. 
 
-# APRIL
+## APRIL
 
 Edinburgh Science Festival - 2026 dates -  4th–19th April
 Further information and guidance on events can be [found on their website](https://www.edinburghscience.co.uk/festival/)
 
 ---
 
-# JUNE
+## JUNE
 
 Leith Festival - June 2026 (Dates TBC) - Further information can be [found on their website](https://www.leithfestival.com/).
 
 ---
 
-# AUGUST
+## AUGUST
 
 #### Edinburgh International Festival
 

@@ -1,4 +1,4 @@
-## Bakeries
+# Bakeries
 
 Edinburgh has many bakeries to choose from throughout the city. Although Greggs is prevelant throughout the city we are blessed with several superb alternatives. This is not an exhaustive list and may be missing your favourite one - if so, [let us know](mailto:reddit@cockjuggling.uk?subject=wiki) and we'll update our wiki. 
 

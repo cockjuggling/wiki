@@ -1,4 +1,4 @@
-## Attractions to visit in Edinburgh
+# Attractions to visit in Edinburgh
 
 The Royal Mile of Edinburgh is a wonder of many museums and buildings. Below are a list of a number of attractions to visit in on your trip to Edinburgh. 
 
@@ -30,3 +30,4 @@ This wiki is not a recommendation site and should only be used as a reference po
 - [Scottish National Gallery](http://bit.ly/3WbmLAY) - Free, but some temporary galleries may be ticketed - Open daily 10am-> 5pm
 - [Edinburgh Zoo](https://www.edinburghzoo.org.uk/) - [Tickets](https://www.edinburghzoo.org.uk/visit/tickets) - [Opening Hours](https://www.edinburghzoo.org.uk/visit/opening-hours) - [Accessibility Guide](https://www.edinburghzoo.org.uk/visit/accessibility) as it is on the side of a hill. 
 - [Scott Monument](https://cultureedinburgh.com/our-venues/scott-monument) - £9 | £7 child / concession - Open 7 days a week from 10am to 3:30pm. - access is by stairs only
+- [The Edinburgh Dungeon](https://www.thedungeons.com/)

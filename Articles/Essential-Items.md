@@ -1,4 +1,4 @@
-# **Items to bring with you**:
+# Items to bring with you:
 
 This is a short list of items you should consider bringing with you, or sourcing once you get to Edinburgh. This is NOT an exhaustive list. 
 

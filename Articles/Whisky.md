@@ -1,8 +1,16 @@
-**Whisky and it's origins** (within Edinburgh and the Lothians)
+# Whisky (within Edinburgh and the Lothians)
 
+Although Scotland is famous for it's Whisky there are a number of distilleries within the city you can visit to learn and appreciate our national drink. 
+
+## Tours 
 * Try The [Scottish Malt Whisky Experience](http://bit.ly/3w1FjZX) for an interactive tour of whisky and it's origins. 
 * The [Johnny Walker Experience](http://bit.ly/3GIlBaq) provides for a more Hollywood interpretation of whisky and it's origins. This is a Diageo property which owns a number of whisky distilleries around Scolland inlcuding. Further information on their holdings can be found  on the [Scotch Whisky Whiskypedia](https://scotchwhisky.com/whiskypedia/2624/diageo/)
+
+## Distilleries
 * Edinburgh operates a number of active whisky distilleries. Tours and tastings are available dependant on the site.  
-  * The closest small one is located in the city at HolyRood - [Holyrood Distillery](https://bit.ly/3s0KF9p) - There are a number of experiences available  - [book a tour](https://bit.ly/3MaAVjQ). 
-  * The [Port of Leith](https://bit.ly/3FoQEbk) has a Distillery coming online and is within walking distance of [HMY Britannia](http://bit.ly/3Zx9h5z) - [Book a tour](https://bit.ly/404W6JQ) - £26. There is no tasting available as their whisky is still less than the minimum 3 years old to be classed as Scottish Malt Whisky. 
-  * The closest large one owned by [Diageo](https://bit.ly/4aronPC) to Edinburgh is [Glenkinchie](http://bit.ly/3W7WLGY) in East Lothian. A bus from Edinburgh to their distillery — [info here](http://bit.ly/3W4GYsd) - Transport + Tour is about £20 per adult. 
+
+* The closest small one is located in the city at HolyRood - [Holyrood Distillery](https://bit.ly/3s0KF9p) - There are a number of experiences available  - [book a tour](https://bit.ly/3MaAVjQ). 
+
+* The [Port of Leith](https://bit.ly/3FoQEbk) has a Distillery coming online and is within walking distance of [HMY Britannia](http://bit.ly/3Zx9h5z) - [Book a tour](https://bit.ly/404W6JQ) - £26. There is no tasting available as their whisky is still less than the minimum 3 years old to be classed as Scottish Malt Whisky. 
+
+* The closest large one owned by [Diageo](https://bit.ly/4aronPC) to Edinburgh is [Glenkinchie](http://bit.ly/3W7WLGY) in East Lothian. A bus from Edinburgh to their distillery — [info here](http://bit.ly/3W4GYsd) - Transport + Tour is about £20 per adult. 
