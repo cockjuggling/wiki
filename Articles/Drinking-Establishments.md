@@ -1,6 +1,6 @@
-Edinburgh has a number of drinking establishments to provide you with libations. There are far too many to mention for one wiki page. The list noted below is not exhaustive. 
+# **Drinking Establishments**
 
-
+Edinburgh has a number of drinking establishments to provide you with libations. There are far too many to mention for one wiki page. The list noted below is not exhaustive. If you have any to add please [get in touch](mailto:reddit@cockjuggling.uk?subject=wiki) and we'll update our wiki. 
 
 ## **Traditional Pubs**
 
@@ -18,14 +18,12 @@ Edinburgh has a number of drinking establishments to provide you with libations.
 
 ## **Cocktail Bars**
 
-[Bramble](https://www.bramblebar.co.uk/) - 16a Queen Street
-
-[The Cuckoo's Nest](https://www.facebook.com/homebaredinburgh/?locale=en_GB) - Tollcross
-
-[Dragonfly](https://www.dragonflycocktailbar.com/) - 52 West Port
+* [Bramble](https://www.bramblebar.co.uk/) - 16a Queen Street
+* [The Cuckoo's Nest](https://www.facebook.com/homebaredinburgh/?locale=en_GB) - Tollcross
+* [Dragonfly](https://www.dragonflycocktailbar.com/) - 52 West Port
 
 
 
 ## Jazz Venue
 
-[The Jazz Bar](https://www.thejazzbar.co.uk/) - Chambers Street
+* [The Jazz Bar](https://www.thejazzbar.co.uk/) - Chambers Street
