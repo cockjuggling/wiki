@@ -1,4 +1,4 @@
-**Whisky and it's origins** 
+## **Whisky and it's origins** 
 
 * Try The [Scottish Malt Whisky Experience](http://bit.ly/3w1FjZX)
 * Also try [Johnny Walker Experience](http://bit.ly/3GIlBaq) for a more Hollywood interpretation of whisky and it's origins
@@ -8,7 +8,7 @@
   * The closest large one owned by [Diageo](https://bit.ly/4aronPC) to Edinburgh is [Glenkinchie](http://bit.ly/3W7WLGY) in East Lothian. A bus from Edinburgh to their distillery — [info here](http://bit.ly/3W4GYsd) - Transport + Tour is about £20 per adult. 
   
 
-**Royal Mile Sights:**
+## **Royal Mile Sights:**
 
 - [Edinburgh Castle](http://bit.ly/3k8CXFT)  - [Tickets](http://bit.ly/3Wc9b0p) - Open 9:30am daily. [Plan your visit](http://bit.ly/3H2vsJB) - [access guide](https://bit.ly/41zbrmD) as this is a very old building.
 - [Holyrood House](http://bit.ly/3QSFcd3)  - [Tickets](http://bit.ly/3Wb6igv) - Open 9:30am daily. There are a number of closures of this house, so ensure you check before visiting by checking the [Royal Collection's website](https://bit.ly/3QSFcd3) - [access guide](https://bit.ly/3Ts6zhe) as this is an old building.
@@ -20,7 +20,7 @@
 - [Edinburgh Free Walking Tour](https://bit.ly/498kVsv) - A company that has a number of free tours including [Ghost](https://bit.ly/3tM1O7n), [New Town](https://bit.ly/4788Y4k) and [Harry Potter](https://bit.ly/3MiuMCk). As Edinburgh is an old city these tours might not be very accessible for some people.
 - [St Giles Cathedral](http://bit.ly/3XrgWR8) - Access is by donation - £5 is suggested - [Opening Times](https://bit.ly/48cq0Pw) - [Access Guide](http://bit.ly/3QCde4Q) as this is an old building.
 
-**Other Notable Visitor Attractions:**
+## **Other Notable Visitor Attractions:**
 
 - [National Museum of Scotland](http://bit.ly/3H1aQSc) \- free  — [monetary donations](https://bit.ly/3QCYwus)  are accepted at the recepticals near the entrances and exits. 
 - [Camera Obscura](https://bit.ly/3NHAZs1)  - [Tickets ](https://bit.ly/48x4GUE)- [access guide](https://bit.ly/4849Ojr) as this exhibition is on multiple levels.
@@ -29,7 +29,7 @@
 - [Scottish National Portrait Gallery](http://bit.ly/3IMQ61C) - Free - Open daily 10am-> 5pm
 - [Scottish National Gallery](http://bit.ly/3WbmLAY) - Free - Open daily 10am-> 5pm
 
-**Suggested Walks:** 
+## **Suggested Walks:** 
 
 - Take a walk in [Princes Street Gardens](http://bit.ly/3GH91bK) - sunbathe if the weather is nice!
 - Take a walk down to [Stockbridge](http://bit.ly/3XqQAyG) from the city.
@@ -39,7 +39,7 @@
 - Walk up [Arthur's Seat](https://bit.ly/3XqN0Vg).
 - Enjoy the splendour of [Holyrood Park](http://bit.ly/3INJpww) instead.
 
-**Things NOT to do**
+## **Things NOT to do:**
 
 * Do not visit Greyfriar's Bobby [and rub his nose](http://bit.ly/3Xl4C4W). This does not give you good luck, in fact it has been done so much that it has damaged the statue now.
 * Don't go to Greyfriar's Graveyard and [steal a headstone](http://bit.ly/3XrMs1w).
@@ -47,7 +47,7 @@
 * Don't walk 3 abreast in groups and stop dead in the street to look at something. This blocks the pavement for other pedestrians who get mightily frustrated if they are also looking to get somewhere. 
 * Don't hire a car for your travels around Edinburgh. We have one of the best bus networks in the UK.
 
-**Items to bring with you**
+## **Items to bring with you**:
 
 * Buy a [waterproof jacket](http://bit.ly/3Wc9GHE) and bring it with you, rather than an umbrella. The weather can be unpredictable and with that umbrellas won't last long if the wind picks up!
 * Bring sunscreen, less relevant in the winter months — you might not need it, but it's better to have than not as the hazy sun is deceptive and can lead to a skelpt heid. 
