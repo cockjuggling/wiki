@@ -4,7 +4,7 @@ This is a short list of items you should consider bringing with you, or sourcing
 
 * Buy a [waterproof jacket](http://bit.ly/3Wc9GHE) and bring it with you, rather than an umbrella. The weather can be unpredictable and with that umbrellas won't last long if the wind picks up. If you forget to pack a waterproof layer. Fear not as Edinburgh has numerous  retailers to sell you such products. 
   * [Tiso](https://www.tiso.com/shops) - Stockist of a variety of premium outdoor brands. 
-  * [Cotswold Outdoor](Cotswold Outdoor) - Stockist of a variety of premium outdoor brands. 
+  * [Cotswold Outdoor](https://www.cotswoldoutdoor.com/stores/edinburgh.html) - Stockist of a variety of premium outdoor brands. 
   * [John Lewis](https://www.johnlewis.com/our-shops) - Stockist of a variety of premium outdoor brands. 
   * [The North Face](https://www.thenorthface.co.uk/en-gb/store-locator) - Stockist of only The North Face Products. 
   * [Primark](https://www.primark.com/en-gb/stores) - Outdoor wear at more affordable prices.
