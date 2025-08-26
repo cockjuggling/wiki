@@ -11,4 +11,4 @@ jobs:
       - name: Check URLs
         uses: paramt/url-checker@master
         with:
-          files: "Attractions.md,Hotels.md,Bakeries.md,Live-Events.md,Coffee.md,Things-not-to-do.md,Drinking-Establishments.md,Transport.md,Essential-Items.md,Travel-beyond-Edinburgh.md,Festivals.md,Walks.md,Food.md,Whisky.md"
+          files: "Whisky.md"

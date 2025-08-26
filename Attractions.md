@@ -17,7 +17,7 @@ This wiki is not a recommendation site and should only be used as a reference po
 
 ## Walking Tours:
 
-* [Mercat Tours](bit.ly/3H2GzSR) - they run a number of walking tours of Edinburgh's Old Town starting from the Mercat Cross.
+* [Mercat Tours](https://bit.ly/3H2GzSR) - they run a number of walking tours of Edinburgh's Old Town starting from the Mercat Cross.
 * [Edinburgh Free Walking Tour](https://bit.ly/498kVsv) - A company that has a number of free tours including [Ghost](https://bit.ly/3tM1O7n), [New Town](https://bit.ly/4788Y4k) and [Harry Potter](https://bit.ly/3MiuMCk). As Edinburgh is an old city these tours might not be very accessible for some people.
 
 ## Other Notable Visitor Attractions:
