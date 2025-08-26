@@ -4,7 +4,7 @@ The Royal Mile of Edinburgh is a wonder of many museums and buildings. Below are
 
 This wiki is not a recommendation site and should only be used as a reference point for each of these venues. If you are looking for reviews for any of these venues then can I suggest you check [TripAdvisor](https://www.tripadvisor.com/), 
 
-**Royal Mile Sights:**
+## Royal Mile Sights:
 
 - [Edinburgh Castle](http://bit.ly/3k8CXFT)  - [Tickets](http://bit.ly/3Wc9b0p) - Open 9:30am daily. [Plan your visit](http://bit.ly/3H2vsJB) - [access guide](https://bit.ly/41zbrmD) as this is a very old building.
 - [Palace of Holyroodhouse](http://bit.ly/3QSFcd3)  - [Tickets](http://bit.ly/3Wb6igv) - Open 9:30am daily. There are a number of closures of this house, so ensure you check before visiting by checking the [Royal Collection's website](https://bit.ly/3QSFcd3) - [Access guide](https://bit.ly/3Ts6zhe) as this is an old building.
@@ -15,12 +15,12 @@ This wiki is not a recommendation site and should only be used as a reference po
 - [Camera Oscura](https://www.camera-obscura.co.uk/) - [Tickets](https://www.camera-obscura.co.uk/view-tickets/) - [Opening Times](https://www.camera-obscura.co.uk/opening-hours/) - [Access Guide](https://www.camera-obscura.co.uk/accessibility/)
 - [Scottish Parliament](https://www.parliament.scot/) - Free - [Plan your visit](https://www.parliament.scot/visit/plan-your-visit) - [Opening Times](https://www.parliament.scot/visit/plan-your-visit) - [Accessibility Guide](https://www.parliament.scot/visit/plan-your-visit/accessibility-guide)
 
-**Walking Tours:**
+## Walking Tours:
 
 * [Mercat Tours](bit.ly/3H2GzSR) - they run a number of walking tours of Edinburgh's Old Town starting from the Mercat Cross.
 * [Edinburgh Free Walking Tour](https://bit.ly/498kVsv) - A company that has a number of free tours including [Ghost](https://bit.ly/3tM1O7n), [New Town](https://bit.ly/4788Y4k) and [Harry Potter](https://bit.ly/3MiuMCk). As Edinburgh is an old city these tours might not be very accessible for some people.
 
-**Other Notable Visitor Attractions:**
+## Other Notable Visitor Attractions:
 
 - [National Museum of Scotland](http://bit.ly/3H1aQSc) \- Free  -  [Donations](https://bit.ly/3QCYwus) are accepted at the recepticals near the entrances and exits. 
 - [Greyfriar's Bobby](http://bit.ly/3X66f6K) \- Free  - its a 5 minute walk from the Royal Mile to the statue of Bobby.
