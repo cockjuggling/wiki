@@ -27,7 +27,7 @@ Performances as part of EIFF can be [located on their website](https://www.edfil
 
 #### Edinburgh Military Tattoo
 
-2026 dates - 7th-29th August 
+2026 dates - 7th-29th August.
 
 Further information, tickets and guidance can be [found on their website](https://www.edintattoo.co.uk/).
 
