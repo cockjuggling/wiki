@@ -11,4 +11,4 @@ jobs:
       - name: Check URLs
         uses: paramt/url-checker@master
         with:
-          files: "Whisky.md"
+          files: "readme.md"
