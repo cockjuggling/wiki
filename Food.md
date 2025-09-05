@@ -70,3 +70,13 @@ Pizza:
 Burgers:
 * [Bread Meats Bread](http://bit.ly/3Wig0xG) - Multiple Locations - Some spectacular burgers, if a bit peppery for my own liking. 
 * [El Pegro Negro](https://www.el-perro-negro.com/#location)
+
+Vegatarian
+* [Hendersons](https://www.hendersonsrestaurant.com/).
+* [David Bann](https://www.davidbann.co.uk/).
+* [Soul Vegan](https://soulvegan.uk/).
+* [Sen Viet Vegan Restaurant](https://www.senvietchay.co.uk/home).
+* [Nova Pizza](https://novapizza.co.uk/).
+* [Holy Cow Vegan](https://holycowvegan.net/).
+* [Heron](https://www.heron.scot/menu).
+* [Sora Diana](https://www.thevegansora.com/sora-diana/)
