@@ -21,3 +21,23 @@ Edinburgh is served by two black taxi cab companies and several private hire car
 
 ## Air Travel
 * [Edinburgh Airport](https://www.edinburghairport.com/)
+
+## Private Car
+
+Car hire is possible, but not recommended. Especially if you are staying within the city centre. Edinburgh Operates a 7 day a week on-street parking. The cost of which can be eyewatering if you plan to leave the car there for extended periods. There are a variety of parking structures around the city operated by companies such as. They may offer discounted parking. 
+
+* [Q-Park](https://www.q-park.co.uk/en-gb/) 
+** [Omni Centre Parking](https://omniedinburgh.co.uk/brand-directory/q-park-omni)
+* [NCP](https://www.ncp.co.uk/). 
+** St John's Hil
+** Castle Terrace
+** [St James Quarter Parking](https://stjamesquarter.com/visit/car-park/)
+
+* [Just Parking](https://www.justpark.com/uk/parking/edinburgh/)
+
+## On Street Parking Information
+* [Edinburgh Council Parking fees](https://www.edinburgh.gov.uk/parking-spaces/parking-prices-times)
+** Handy dandy [interactive city map](https://www.edinburgh.gov.uk/parking-spaces/find-parking-bays/1) of parking locations and fees.
+
+## Low Emission Zone
+This is largely irrelevant to tourists who hire cars as they will be compliant, but Edinburgh operates a Low Emission Zone within the core of the city. Further details of this zone and the fines if you enter it in a non-compliant vehicle can be [found here](https://www.edinburgh.gov.uk/lowemissionzone).
