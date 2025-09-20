@@ -25,6 +25,7 @@ Thai:
 
 Japanese:
 * [Maki and Ramen](https://www.makiramen.com/our-venues/) - Multiple locations - Ramen and Sushi bar. 
+* [([Kanpai]](https://www.kanpaisushiedinburgh.co.uk/#!/splash)
 
 Malaysian:
 * [Nanyang](https://nanyangrestaurant.com/) - Quartermile - I've not been for a few years, but when I did go it was enjoyable.
@@ -37,7 +38,7 @@ Indian:
 * [Rishi's Indian Aroma](https://rishis.uk/edinburgh/) - Newhaven Road - on my list to visit, but rated by other Redditors
 * [Cutting Chaii](https://cuttingchaii.co.uk/) - Salamander St - on my list to visit, but rated by other Redditors
 * [Desi Pakwan](https://desipakwanonline.com/) - Leith Walk - on my list to visit, but rated by other Redditors
-
+* [The Mosque Kitchen](http://mosquekitchen.com/)
 French: 
 * [Chez Jules](https://www.chezjulesbistro.com/) - Hanover Street - Edinburgh's French Bistro. Top notch french dining. 
 * [Maison Bleue](https://www.maisonbleuerestaurant.com/) - Victoria Street - French, North African and Scottish dining
@@ -81,3 +82,8 @@ This list is a culmination from a [recent discussion](https://redd.it/1n26w5h) i
 * [Holy Cow Vegan](https://holycowvegan.net/).
 * [Heron](https://www.heron.scot/menu).
 * [Sora Diana](https://www.thevegansora.com/sora-diana/)
+
+Seafood:
+
+* [The Ship on the Shore](https://www.theshipontheshore.co.uk/)
+* [The Mussel Inn](https://www.mussel-inn.com/)
