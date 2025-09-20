@@ -25,7 +25,7 @@ Thai:
 
 Japanese:
 * [Maki and Ramen](https://www.makiramen.com/our-venues/) - Multiple locations - Ramen and Sushi bar. 
-* [([Kanpai]](https://www.kanpaisushiedinburgh.co.uk/#!/splash)
+* [Kanpai](https://www.kanpaisushiedinburgh.co.uk/)
 
 Malaysian:
 * [Nanyang](https://nanyangrestaurant.com/) - Quartermile - I've not been for a few years, but when I did go it was enjoyable.
