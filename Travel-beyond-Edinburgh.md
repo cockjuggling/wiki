@@ -2,7 +2,7 @@
 
 
 
-* Trains are operated by [ScotRail](http://bit.ly/3Zx67Pf) to connect you with another Scottish city or town. 
+* Trains are operated by [ScotRail](https://www.scotrail.co.uk/) to connect you with another Scottish city or town. 
 
 * Trains to England can be operated by a number of companies:
 
@@ -13,19 +13,19 @@
   * [Lumo](https://www.lumo.co.uk/)
   * [Caledonian Sleeper](https://www.sleeper.scot/)
 
-* Coaches are operated by [StageCoach](https://bit.ly/3COR2z0) to Fife.
+* Coaches are operated by [StageCoach](https://www.stagecoachbus.com/) to Fife.
 * Coaches are operatd by [CityLink](https://www.citylink.co.uk) to Glasgow and beyond.
-* [MegaBus](http://bit.ly/3XwDJLd) also operates coaches around Scotland and beyond.
-* [National Express](http://bit.ly/3IQRAIi) operates buses.
+* [MegaBus](https://www.megabus.co.uk/) also operates coaches around Scotland and beyond.
+* [National Express](https://www.nationalexpress.com/en) operates buses.
 * [Flixbus](https://www.flixbus.co.uk/) also operated buses.
-* [LoganAir](http://bit.ly/3w0iaaj) operate as Scotland's regional airline.
+* [LoganAir](https://www.loganair.co.uk/) operate as Scotland's regional airline.
 
   
 ## **Guided Coach Tours outwith Edinburgh** 
 
 There are a number of minibus/ coach tours that leave from Edinburgh to a wide variety of destinations beyond Edinburgh. If you want to cram in a good number of sights into a few days - then this is the best way to do it. 
 
-* [Haggis Adventures](http://bit.ly/3GELEQ2)
-* [Discover Scotland Tours](http://bit.ly/3kdXPMe)
-* [Go Scotland Tours](http://bit.ly/3CHWLGv)
-* [Highland Explorer Tours](http://bit.ly/3CPF87R)
+* [Haggis Adventures](https://www.haggisadventures.com/)
+* [Discover Scotland Tours](https://www.discoverscotlandtours.com/tours-from-edinburgh/)
+* [Go Scotland Tours](https://www.goscotlandtours.com/)
+* [Highland Explorer Tours](https://highlandexplorertours.com/3-6-day-tours)
