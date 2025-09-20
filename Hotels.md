@@ -6,13 +6,13 @@ I cannot provide any recommendations for hotels with included spas - I'm a resid
 
 Edinburgh has many chain hotels which can be contacted directly for pricing on your desired dates. They may also have their own promotional rates on giving you a cheaper deal.  These include: 
 
-* [Yotel](https://bit.ly/46ADgfY)
-* [Motel One](https://bit.ly/3QnngZ9) 
-* [Novotel](https://bit.ly/3FmLexn)
-* [Raddison](https://bit.ly/490yEBK)
-* [Travelodge](https://bit.ly/48blGAf)
-* [Premier Inn](https://bit.ly/48mieT0) 
-* [Ibis](https://bit.ly/485eF3M)
+* [Yotel](https://www.yotel.com/en/hotels/yotel-edinburgh)
+* [Motel One](https://www.motel-one.com/en/hotels/edinburgh/) 
+* [Novotel](https://all.accor.com/a/en/destination/city/hotels-edinburgh-v1175.html)
+* [Raddison](https://www.radissonhotels.com/en-us/destination/united-kingdom/edinburgh)
+* [Travelodge](https://www.travelodge.co.uk/)
+* [Premier Inn](https://www.premierinn.com/gb/en/home.html) 
+* [Ibis](https://all.accor.com/booking/en/ibis/hotels/edinburgh-uk?compositions=1&stayplus=false&snu=false&hideWDR=false&productCode=null&accessibleRooms=false&hideHotelDetails=false)
 * [Easy Hotel](https://www.easyhotel.com/)
 * [The Balmoral Hotel](https://www.roccofortehotels.com/hotels-and-resorts/the-balmoral-hotel/)
 * [The Caledonian](https://www.hilton.com/en/hotels/ednchqq-the-caledonian-edinburgh/)

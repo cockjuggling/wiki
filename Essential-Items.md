@@ -2,7 +2,7 @@
 
 This is a short list of items you should consider bringing with you, or sourcing once you get to Edinburgh. This is NOT an exhaustive list. 
 
-* Buy a [waterproof jacket](http://bit.ly/3Wc9GHE) and bring it with you, rather than an umbrella. The weather can be unpredictable and with that umbrellas won't last long if the wind picks up. If you forget to pack a waterproof layer - Fear not as Edinburgh has numerous retailers to sell you such products. 
+* Buy a [waterproof jacket](https://www.macinasac.com/collections/packable-jackets) and bring it with you, rather than an umbrella. The weather can be unpredictable and with that umbrellas won't last long if the wind picks up. If you forget to pack a waterproof layer - Fear not as Edinburgh has numerous retailers to sell you such products. 
   * [Tiso](https://www.tiso.com/shops) - Stockist of a variety of premium outdoor brands. 
   * [Cotswold Outdoor](https://www.cotswoldoutdoor.com/stores/edinburgh.html) - Stockist of a variety of premium outdoor brands. 
   * [John Lewis](https://www.johnlewis.com/our-shops) - Stockist of a variety of premium outdoor brands. 
@@ -10,7 +10,6 @@ This is a short list of items you should consider bringing with you, or sourcing
   * [Primark](https://www.primark.com/en-gb/stores) - Outdoor wear at more affordable prices.
   * [Mountain Warehouse](https://www.mountainwarehouse.com/stores/edinburgh---princes-street/) - This is located in the city centre and will give you access to better value products
   * [Marks and Spencer](https://www.marksandspencer.com/) - This is located in the city centre and will give you access to a range of coats suitable for Edinburgh blustery conditions. 
-  
   
 * Bring sunscreen, less relevant in the winter months — you might not need it, but it's better to have than not as the hazy sun is deceptive and can lead to a Scottish tan. If you forget, fear not. It can be purchased locally. Some retailers are noted below:
 

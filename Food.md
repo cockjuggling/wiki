@@ -71,7 +71,8 @@ Burgers:
 * [Bread Meats Bread](http://bit.ly/3Wig0xG) - Multiple Locations - Some spectacular burgers, if a bit peppery for my own liking. 
 * [El Pegro Negro](https://www.el-perro-negro.com/#location)
 
-Vegatarian
+Vegetarian / Vegan:
+This list is a culmination from a [recent discussion](https://redd.it/1n26w5h) in 2025. This is an abridged version of this discussion and the recommendations it provided.
 * [Hendersons](https://www.hendersonsrestaurant.com/).
 * [David Bann](https://www.davidbann.co.uk/).
 * [Soul Vegan](https://soulvegan.uk/).
