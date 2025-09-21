@@ -1,47 +1,47 @@
 # Food
 
-I am not going to give any recommendations — in Edinburgh there are simply too many to mention. Below is a small subset of "Locally" owned establishments. I will not make mention of national chains or franchises of which there are many to pick and choose from it you like. 
+I am not going to give any recommendations — in Edinburgh there are simply too many to mention. Below is a small subset of "Locally" owned establishments. I will not make mention of national chains or franchises of which there are many to pick and choose from it you like.
 
 Cheap:
 
-* [Mum's Comfort Food](https://www.monstermashcafe.co.uk/) - Forrest Road - previously this was Monster Mash where it brought Sausages, Mash and Gravy an excellent meal choice. 
-* [City Cafe](https://www.thecitycafe.co.uk/) - Blair Street - Another comfort food venue
-* [Oink](https://www.oinkhogroast.co.uk/) - Canongate - Glorious pig rolls
+* [Mum's Comfort Food](https://www.monstermashcafe.co.uk/) - Forrest Road - previously this was Monster Mash where it brought Sausages, Mash and Gravy an excellent meal choice.
+* [City Cafe](https://www.thecitycafe.co.uk/) - Blair Street - Another comfort food venue.
+* [Oink](https://www.oinkhogroast.co.uk/) - Canongate - Glorious pig rolls.
 
 Pricey:
 
 * [Scran and Scallie](https://scranandscallie.com/) - Comely Bank Rd - "Rustic Gastro Pub" — owned by Tim Kitchin.  However, some of the [working practices of Tim Kitchin might detract](https://www.theguardian.com/uk-news/2021/jul/02/tom-kitchin-restaurant-staff-suspended-bullying-allegations-toxic-workplace-social-media-claims) from his culinary achievements. 
 * [Six by Nico](https://www.sixbynico.co.uk/edinburgh/) - Hanover Street - 6 course tasting menu that changes often to other regions. This is very much a marmite restaurants with the reddit community.
-* [The Kitchin](https://thekitchin.com/) - Commercial Quay, Leith. Again, another Tim Kitchen resteraunt. 
-* [The Purslane](http://www.purslanerestaurant.co.uk/) - St Stephen St, Edinburgh
-* [The Witchery](https://www.thewitchery.com/dine/) - Royal Mile, Edinburgh
+* [The Kitchin](https://thekitchin.com/) - Commercial Quay, Leith. Again, another Tim Kitchen resteraunt.
+* [The Purslane](http://www.purslanerestaurant.co.uk/) - St Stephen St, Edinburgh.
+* [The Witchery](https://www.thewitchery.com/dine/) - Royal Mile, Edinburgh.
 
 Steak:
 
-* [Kyloe](https://kyloerestaurant.com/) - Rutland Street . Edinburgh
-* [Chop House](https://chophousesteak.co.uk) - Market Street, Edinburgh
-* [Le Petit Beef Bar](https://beefbar.com/le-petit-beefbar-edinburgh/) - George Street, Edinburgh
+* [Kyloe](https://kyloerestaurant.com/) - Rutland Street . Edinburgh.
+* [Chop House](https://chophousesteak.co.uk) - Market Street, Edinburgh.
+* [Le Petit Beef Bar](https://beefbar.com/le-petit-beefbar-edinburgh/) - George Street, Edinburgh.
 
 Thai:
 
-* [Ting Thai Caravan Club](https://tingthai.co.uk/) - Teviot Place - Shared seating Thai eatery. Always busy but for a reason - it's great for a quick eat, when you can get a seat.
-* [Nok's Kitchen](https://nokskitchen.co.uk/) - Stockbridge - This is a recommendation from /u/antoniomegareti/  - Their one word review for this establishment is "godly".
+* [Ting Thai Caravan Club](https://tingthai.co.uk/) - Teviot Place.
+* [Nok's Kitchen](https://nokskitchen.co.uk/) - Stockbridge.
 
 Japanese:
 
-* [Maki and Ramen](https://www.makiramen.com/our-venues/) - Multiple locations - Ramen and Sushi bar. 
+* [Maki and Ramen](https://www.makiramen.com/our-venues/) - Multiple locations - Ramen and Sushi bar.
 * [Kanpai](https://www.kanpaisushiedinburgh.co.uk/)
 
 Malaysian:
 
-* [Nanyang](https://nanyangrestaurant.com/) - Quartermile - I've not been for a few years, but when I did go it was enjoyable.
+* [Nanyang](https://nanyangrestaurant.com/) - Quartermile.
 
 Indian:
 
-* [Mother India Cafe](https://www.motherindia.co.uk/restaurant/mother-india-edinburgh/) - Infirmary Street -  Curry, tapas style 
-* [Kalpna](https://bit.ly/47hPbyW) - St Patrick Square - Traditional Indian Vegan and Vegetarian Restaurant
-* [Solti](https://www.soltiedinburgh.co.uk/) - Drummond Street - More curry, by recommendation
-* [Dangal](https://dangal.co.uk/) - St John's Road and Duke Street - rated by /u/MrRickSter/ to ruin your waistline.
+* [Mother India Cafe](https://www.motherindia.co.uk/restaurant/mother-india-edinburgh/) - Infirmary Street -  Curry, tapas style.
+* [Kalpna](https://bit.ly/47hPbyW) - St Patrick Square - Traditional Indian Vegan and Vegetarian Restaurant.
+* [Solti](https://www.soltiedinburgh.co.uk/) - Drummond Street - More curry, by recommendation.
+* [Dangal](https://dangal.co.uk/) - St John's Road and Duke Street - rated by [/u/MrRickSter/](https://www.reddit.com/user/MrRickSter/) to ruin your waistline.
 * [Rishi's Indian Aroma](https://rishis.uk/edinburgh/) - Newhaven Road - on my list to visit, but rated by other Redditors
 * [Cutting Chaii](https://cuttingchaii.co.uk/) - Salamander St - on my list to visit, but rated by other Redditors
 * [Desi Pakwan](https://desipakwanonline.com/) - Leith Walk - on my list to visit, but rated by other Redditors
