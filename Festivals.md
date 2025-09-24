@@ -2,6 +2,8 @@
 
 Edinburgh is blessed with a several festivals over the year. The list below summarises these and the month that they are active.
 
+[Edinburgh Festival City](https://www.edinburghfestivalcity.com/) provides a comprehensive guide to all festivals occurring over the course of the year.
+
 ## APRIL
 
 Edinburgh Science Festival - 2026 dates -  4th–19th April
@@ -68,3 +70,16 @@ Further information can be [found on their Facebook page ](https://www.facebook.
 ### Edinburgh Art Festival
 
 Further information can be [found on their website](https://www.edinburghartfestival.com/).
+
+---
+
+## OCTOBER
+
+[Edinburgh International Storytelling Festival](https://www.edinburghfestivalcity.com/festivals/scottish-international-storytelling-festival) - 22 October-1 November 2025.
+
+---
+
+## DECEMBER
+
+[Edinburgh's Hogmanay](https://www.edinburghfestivalcity.com/festivals/edinburghs-hogmanay) - 30 December 2025 - 1 January 2026.
+A [separate page](Christmas2025) has been created listing off the festivities around Christmas in Edinburgh 2026.
