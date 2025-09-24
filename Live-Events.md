@@ -1,9 +1,9 @@
 # Live Events
 
-There may come a time when there are live events on in Edinburgh. 
-Generally they are advertised in numerous places. 
+There may come a time when there are live events on in Edinburgh.
+Generally they are advertised in numerous places.
 
-Tickets 
+## Tickets
 
 * [Gigs in Scotland](https://www.gigsinscotland.com/).
 * [TicketMaster](https://www.ticketmaster.co.uk/).

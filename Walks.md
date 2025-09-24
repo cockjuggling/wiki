@@ -1,6 +1,6 @@
-## **Suggested Walks:** 
+# **Suggested Walks:** 
 
-Edinburgh is a very walkable city. Below are a small list of suggested walks to take on your visit to take in the sights, or just have a relaxing walk. 
+Edinburgh is a very walkable city. Below are a small list of suggested walks to take on your visit to take in the sights, or just have a relaxing walk.
 
 * Take a walk in [Princes Street Gardens](https://www.introducingedinburgh.com/princes-street-gardens) - sunbathe if the weather is nice!
 * Take a walk down to [Stockbridge](https://edinburgh.org/neighbourhoods/stockbridge/) from the city.
