@@ -46,7 +46,9 @@ I am not going to give any recommendations — in Edinburgh there are simply too
 * [Cutting Chaii](https://cuttingchaii.co.uk/) - Salamander St - on my list to visit, but rated by other Redditors
 * [Desi Pakwan](https://desipakwanonline.com/) - Leith Walk - on my list to visit, but rated by other Redditors
 * [The Mosque Kitchen](http://mosquekitchen.com/)
-French: 
+
+
+##### French: 
 * [Chez Jules](https://www.chezjulesbistro.com/) - Hanover Street - Edinburgh's French Bistro. Top notch french dining. 
 * [Maison Bleue](https://www.maisonbleuerestaurant.com/) - Victoria Street - French, North African and Scottish dining
 
@@ -68,15 +70,15 @@ French:
 
 ##### Pizza
 
-* [Civerinos Slice ](https://www.civerinos.com/locations/forrest-road/)- Forrest Road - Pizza by the slice, or pie. They also have some killer parmesan doughballs. 
-* [Civerinos](https://www.civerinos.com/) - Hunter Square - Pizza restraunt by the pie. 
-* [Dough](https://dough-pizza.co.uk/) - Takeaway only - South Clerk St or Rose Street -  Great, if you can get it ordered
-* [Pizza Posto](https://pizzaposto.co.uk/) - Nicholson St - Traditional Neapolitan style pizza
+* [Civerinos Slice](https://www.civerinos.com/locations/forrest-road/)- Forrest Road - Pizza by the slice, or pie. They also have some killer parmesan doughballs.
+* [Civerinos](https://www.civerinos.com/) - Hunter Square - Pizza restraunt by the pie.
+* [Dough](https://dough-pizza.co.uk/) - Takeaway only - South Clerk St or Rose Street -  Great, if you can get it ordered.
+* [Pizza Posto](https://pizzaposto.co.uk/) - Nicholson St - Traditional Neapolitan style pizza.
 * [Pizzeria 1926](https://pizzeria1926.co.uk/) - Dalry Road - not within the city centre, but worthy of jumping a Number 44 bus to go visit and enjoy pizza.
-* [Razzo](https://razzopizza.co.uk/) - Great Junction Street - This is on my list to visit - so far I've heard it's great
-* [Matto Pizza](https://mattopizza.co.uk/) - Multiple locations - This is a brand that has had some recent expansion due to local success. Great pizza. 
-* [Pizza Geeks](https://www.pizzageeks.co.uk/) - Multiple locations - This place serves great pizza (in my opinion). 
-* [San Ciro](hhttps://www.sanciros.com/) - Leith Walk - Former owner of Pizzeria 1926 
+* [Razzo](https://razzopizza.co.uk/) - Great Junction Street - This is on my list to visit - so far I've heard it's great.
+* [Matto Pizza](https://mattopizza.co.uk/) - Multiple locations - This is a brand that has had some recent expansion due to local success. Great pizza.
+* [Pizza Geeks](https://www.pizzageeks.co.uk/) - Multiple locations - This place serves great pizza (in my opinion).
+* [San Ciro](hhttps://www.sanciros.com/) - Leith Walk - Former owner of Pizzeria 1926.
 
 ##### Burgers
 
@@ -94,23 +96,23 @@ This list is a culmination from a [recent discussion](https://redd.it/1n26w5h) i
 * [Nova Pizza](https://novapizza.co.uk/).
 * [Holy Cow Vegan](https://holycowvegan.net/).
 * [Heron](https://www.heron.scot/menu).
-* [Sora Diana](https://www.thevegansora.com/sora-diana/)
+* [Sora Diana](https://www.thevegansora.com/sora-diana/).
 
 ##### Seafood
 
-* [The Ship on the Shore](https://www.theshipontheshore.co.uk/)
-* [The Mussel Inn](https://www.mussel-inn.com/)
+* [The Ship on the Shore](https://www.theshipontheshore.co.uk/).
+* [The Mussel Inn](https://www.mussel-inn.com/).
 
 ##### Chip Shops
 
-* [The Fishmarket](https://www.thefishmarketnewhaven.co.uk/) - Newhaven
-* [Pierinos](https://www.pierinos.co.uk/) - Bernard St, Leith 
-* [Salvadores](https://www.salvatoresfishandchips.com/) - Marchmont
-* [#Fish](https://eatfishedinburgh.com/) - Marchmont
-* [Franco](https://francos-of-stockbridge.com/) - Stockbridge
-* [The Chippy](https://thechippyedinburgh.com/) - Broughton Street
-* [Eatalias](https://www.eatalias.co.uk/) - Leith Walk
-* [City restaurant](https://www.thecityrestaurant.co.uk/) - Old Town
-* [Milton Fry](https://miltonfry.com/) - Causewayside
-* [L’Alba D’Oro](https://www.lalbadoro.com/) - Henderson Row
-* [Cafe Picante](https://cafepiccante.co.uk/) - Broughton Street - if you have a late night requirement for trying deep fried Mars Bars. 
+* [The Fishmarket](https://www.thefishmarketnewhaven.co.uk/) - Newhaven.
+* [Pierinos](https://www.pierinos.co.uk/) - Bernard St, Leith.
+* [Salvadores](https://www.salvatoresfishandchips.com/) - Marchmont.
+* [#Fish](https://eatfishedinburgh.com/) - Marchmont.
+* [Franco](https://francos-of-stockbridge.com/) - Stockbridge.
+* [The Chippy](https://thechippyedinburgh.com/) - Broughton Street.
+* [Eatalias](https://www.eatalias.co.uk/) - Leith Walk.
+* [City restaurant](https://www.thecityrestaurant.co.uk/) - Old Town.
+* [Milton Fry](https://miltonfry.com/) - Causewayside.
+* [L’Alba D’Oro](https://www.lalbadoro.com/) - Henderson Row.
+* [Cafe Picante](https://cafepiccante.co.uk/) - Broughton Street - if you have a late night requirement for trying deep fried Mars Bars.

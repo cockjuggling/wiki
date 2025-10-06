@@ -13,6 +13,10 @@ Edinburgh has a number of theatres and cinemas to meet your entertainment needs.
 * [Royal Lyceum Theatre](https://lyceum.org.uk/)
 * [Usher Hall](https://cultureedinburgh.com/our-venues/usher-hall)
 
+## Event Spaces
+
+* [The Queens Hall](https://www.thequeenshall.net/) - A venue like no other in Edinburgh.
+
 ## Cinemas
 
 ### National Chains

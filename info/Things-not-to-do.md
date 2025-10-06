@@ -5,4 +5,4 @@
 * Don't go to Greyfriar's Graveyard and [steal a headstone](https://www.dailyrecord.co.uk/news/scottish-news/headstone-stolen-edinburgh-graveyard-police-27865361).
 * Don't walk 3 abreast in groups and stop dead in the street to look at something. This blocks the pavement for other pedestrians who get mightily frustrated if they are also looking to get somewhere.
 * Don't hire a car for your travels around Edinburgh.
-  *  Edinburgh has one of the best public bus networks in the UK.
+  * Edinburgh has one of the best public bus networks in the UK.

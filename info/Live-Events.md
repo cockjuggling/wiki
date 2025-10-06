@@ -3,6 +3,10 @@
 There may come a time when there are live events on in Edinburgh.
 Generally they are advertised in numerous places.
 
+## Listings
+
+[The List](https://list.co.uk/) is a free magazine that is distributed throughout Edinburgh. It's good for finding out about stuff that is occurring over the month. The website however holds the same info as the printed version and is searchable!
+
 ## Tickets
 
 * [Gigs in Scotland](https://www.gigsinscotland.com/).

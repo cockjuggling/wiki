@@ -5,34 +5,34 @@ Edinburgh has a number of drinking establishments to provide you with libations.
 ##### Traditional Pubs
 
 * [The Sandy Bells](https://sandybells.com/) - Forrest Road.
-* [Oxford Bar](https://www.oxfordbar.co.uk/) - 8 Young Street.
-* [Cambridge Bar](https://thecambridgebar.co.uk/) - 20 Young Street.
+* [Oxford Bar](https://www.oxfordbar.co.uk/) - Young Street.
+* [Cambridge Bar](https://thecambridgebar.co.uk/) - Young Street.
 * [The Bow Bar](https://www.thebowbar.co.uk/) - Victoria Street.
-* [Stockbridge Tap](https://www.facebook.com/thestockbridgetap/?locale=en_GB) - Raeburn Place
-* [Cloisters](https://www.cloistersbar.com/) - Brougham Street
-* [Jolly Judge](https://www.jollyjudge.co.uk/) - James' Court, Lawnmarket,
-* [Guildford Arms](https://guildfordarms.com/) - West Register Street
-* [The Ferry Tap](https://www.ferrytap.co.uk/), when you're out in South Queensferry. - High Street, South Queensferry, EH30 9HN
-* [The Canny Man's pub](https://www.cannymans.co.uk/) - Morningside Road
-* [Cafe Royale](http://www.caferoyaledinburgh.com/) - West Register Street
-* [Athletic Arms](https://athleticarms.co.uk/) (AKA Diggers) - Angle Park Terrace
+* [Stockbridge Tap](https://www.facebook.com/thestockbridgetap/) - Raeburn Place.
+* [Cloisters](https://www.cloistersbar.com/) - Brougham Street.
+* [Jolly Judge](https://www.jollyjudge.co.uk/) - James' Court, Lawnmarket.
+* [Guildford Arms](https://guildfordarms.com/) - West Register Street.
+* [The Ferry Tap](https://www.ferrytap.co.uk/), when you're out in South Queensferry. - High Street, South Queensferry, EH30 9HN.
+* [The Canny Man's pub](https://www.cannymans.co.uk/) - Morningside Road.
+* [Cafe Royale](http://www.caferoyaledinburgh.com/) - West Register Street.
+* [Athletic Arms](https://athleticarms.co.uk/) (AKA Diggers) - Angle Park Terrace.
 
 ##### Craft Beer Pubs
 
-* [The Hanging Bat](https://www.thehangingbat.com/) - Lothian Road
-* [Salthorse](https://www.salthorse.beer/) - Blackfriars Street, EH1
-* [The Safari Lounge](https://www.thesafarilounge.co.uk/) 
-* [Bennets of Morningside](https://www.facebook.com/p/Bennets-of-Morningside-100049263104501/) 
+* [The Hanging Bat](https://www.thehangingbat.com/) - Lothian Road.
+* [Salthorse](https://www.salthorse.beer/) - Blackfriars Street, EH1.
+* [The Safari Lounge](https://www.thesafarilounge.co.uk/).
+* [Bennets of Morningside](https://www.facebook.com/p/Bennets-of-Morningside-100049263104501/).
 
 ##### Scotland's Most Haunted Pub
 
-[The Banshee Labyrinth](https://www.thebansheelabyrinth.com/) - 29-35 Niddry St, Edinburgh EH1 1LG
+[The Banshee Labyrinth](https://www.thebansheelabyrinth.com/) - Niddry St.
 
 ##### Cocktail Bars
 
-* [Bramble](https://www.bramblebar.co.uk/) - 16a Queen Street.
+* [Bramble](https://www.bramblebar.co.uk/) - Queen Street.
 * [The Cuckoo's Nest](https://www.facebook.com/homebaredinburgh/?locale=en_GB) - Tollcross.
-* [Dragonfly](https://www.dragonflycocktailbar.com/) - 52 West Port.
+* [Dragonfly](https://www.dragonflycocktailbar.com/) - West Port.
 
 ##### Jazz Venue
 

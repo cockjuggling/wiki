@@ -1,6 +1,7 @@
 # Hotels
 
 I cannot provide any recommendations for hotels - I'm a resident and don't need hotel accommodation. There are however lots of hotels dotted around the city. There is surely one to meet your budget and star rating. Usage of these comparison sites will give you a good idea of what's available.
+
 * [Hotels.com](https://bit.ly/3vdhTUj).
 * [Trivago](https://bit.ly/4avGT9x).
 

@@ -27,3 +27,4 @@ There are a number of minibus/ coach tours that leave from Edinburgh to a wide v
 * [Discover Scotland Tours](https://www.discoverscotlandtours.com/tours-from-edinburgh/).
 * [Go Scotland Tours](https://www.goscotlandtours.com/).
 * [Highland Explorer Tours](https://highlandexplorertours.com/3-6-day-tours).
+* [The Hairy Coo](https://www.thehairycoo.com/) - offering day tours departing from Edinburgh. 
