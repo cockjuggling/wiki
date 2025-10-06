@@ -5,8 +5,6 @@ Usage of sites such as [HostelWorld](https://www.hostelworld.com/hostels/europe/
 
 I cannot however provide a recoomendation for any of these hostels as I am an Edinburgh resident and don't require local accommodation. Please do your own research for reviews and feedback. 
 
-
-
 * [Castle Rock Hostel](https://www.castlerockedinburgh.com/)
 * [High Street Hostel](https://www.highstreethostel.com/)
 * [CoDE Pod  – The CoURT](https://www.codehostels.com/)
