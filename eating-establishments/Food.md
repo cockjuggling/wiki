@@ -15,6 +15,7 @@ I am not going to give any recommendations — in Edinburgh there are simply too
 * [The Kitchin](https://thekitchin.com/) - Commercial Quay, Leith. Again, another Tim Kitchen resteraunt.
 * [The Purslane](http://www.purslanerestaurant.co.uk/) - St Stephen St, Edinburgh.
 * [The Witchery](https://www.thewitchery.com/dine/) - Royal Mile, Edinburgh.
+* [Timberyard](https://www.timberyard.co/) - Lady Lawson St.
 
 ##### Steak
 
