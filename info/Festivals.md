@@ -66,7 +66,7 @@ Further information can be [found on their website](https://www.edbookfest.co.uk
 ### Edinburgh Mela
 
 Further information can be [found on their Facebook page ](https://www.facebook.com/TheEdMela/).
-
+---
 ### Edinburgh Art Festival
 
 Further information can be [found on their website](https://www.edinburghartfestival.com/).
@@ -75,7 +75,9 @@ Further information can be [found on their website](https://www.edinburghartfest
 
 ## OCTOBER
 
-[Edinburgh International Storytelling Festival](https://www.edinburghfestivalcity.com/festivals/scottish-international-storytelling-festival) - 22 October-1 November 2025.
+[Edinburgh International Storytelling Festival](https://www.edinburghfestivalcity.com/festivals/scottish-international-storytelling-festival) - 22 October-1 November.
+
+[Edinburgh ComicCon](https://www.comicconventionscotland.co.uk/) - 24th-25th October 2026
 
 ---
 
