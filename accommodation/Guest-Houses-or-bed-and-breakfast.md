@@ -1,14 +1,13 @@
 # Guest Houses and B&Bs
 
-Edinburgh if full of Bed and Breakfast accommodation.
-So much, that I cannot simply list of places I know.
+Edinburgh is full of Bed and Breakfast accommodation.
+So much, that I cannot provide a simple list. 
 However, I can suggest aggregator sites which will be better help to search and find a location that meets your star rating and budget.
 
 ## Bed and Breakfast accommodation
 
-[VisitScotland](https://www.visitscotland.com/info/accommodation/search-results?prodtypes=acco&avail=off&locplace=4161&loc=Edinburgh&locprox=0&name=&cat=bandb&cat=farmhouse&cat=guesthouse) have a search function for Edinburgh properties.
-
-[Hotels and B&B's](https://www.hotels.uk.com/uk/city-of-edinburgh/bed-and-breakfast-in-edinburgh).
+* [VisitScotland](https://www.visitscotland.com/info/accommodation/search-results?prodtypes=acco&avail=off&locplace=4161&loc=Edinburgh&locprox=0&name=&cat=bandb&cat=farmhouse&cat=guesthouse) have a search function for Edinburgh properties.
+* [Hotels and B&B's](https://www.hotels.uk.com/uk/city-of-edinburgh/bed-and-breakfast-in-edinburgh).
 
 ## Short term property rental
 

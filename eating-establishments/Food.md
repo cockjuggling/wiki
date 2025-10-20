@@ -43,26 +43,28 @@ I am not going to give any recommendations — in Edinburgh there are simply too
 * [Kalpna](https://bit.ly/47hPbyW) - St Patrick Square - Traditional Indian Vegan and Vegetarian Restaurant.
 * [Solti](https://www.soltiedinburgh.co.uk/) - Drummond Street - More curry, by recommendation.
 * [Dangal](https://dangal.co.uk/) - St John's Road and Duke Street - rated by [/u/MrRickSter/](https://www.reddit.com/user/MrRickSter/) to ruin your waistline.
-* [Rishi's Indian Aroma](https://rishis.uk/edinburgh/) - Newhaven Road - on my list to visit, but rated by other Redditors
-* [Cutting Chaii](https://cuttingchaii.co.uk/) - Salamander St - on my list to visit, but rated by other Redditors
-* [Desi Pakwan](https://desipakwanonline.com/) - Leith Walk - on my list to visit, but rated by other Redditors
-* [The Mosque Kitchen](http://mosquekitchen.com/)
+* [Rishi's Indian Aroma](https://rishis.uk/edinburgh/) - Newhaven Road - on my list to visit, but rated by other Redditors.
+* [Cutting Chaii](https://cuttingchaii.co.uk/) - Salamander St - on my list to visit, but rated by other Redditors.
+* [Desi Pakwan](https://desipakwanonline.com/) - Leith Walk - on my list to visit, but rated by other Redditors.
+* [The Mosque Kitchen](http://mosquekitchen.com/).
+* [The Original Mosque Kitchen & Cafe](http://www.mosquekitchen.co.uk/).
+* [Kahani](https://kahanirestaurant.co.uk/)
 
+## French
 
-## French: 
 * [Chez Jules](https://www.chezjulesbistro.com/) - Hanover Street - Edinburgh's French Bistro. Top notch french dining. 
 * [Maison Bleue](https://www.maisonbleuerestaurant.com/) - Victoria Street - French, North African and Scottish dining
 
 ## Scottish
 
-* [Howies](https://www.howies.uk.com/) - [Waterloo Place](https://www.howies.uk.com/venues/howies-waterloo-place/) or [Victoria Street](https://www.howies.uk.com/venues/howies-victoria-street/) - Family owned Scottish restaurant. Always best of gear when I have visited. Booking not required, but recommended. 
-* [Scott's Kitchen](https://www.howies.uk.com/venues/scotts-kitchen/) - Victoria Terrace - An offshoot of Howies - Intriguing menu that I have only found and yet to sample - watch this space. 
+* [Howies](https://www.howies.uk.com/) - [Waterloo Place](https://www.howies.uk.com/venues/howies-waterloo-place/) or [Victoria Street](https://www.howies.uk.com/venues/howies-victoria-street/) - Family owned Scottish restaurant. Always best of gear when I have visited. Booking not required, but recommended.
+* [Scott's Kitchen](https://www.howies.uk.com/venues/scotts-kitchen/) - Victoria Terrace - An offshoot of Howies - Intriguing menu that I have only found and yet to sample - watch this space.
 * Traditional [Haggis](https://en.wikipedia.org/wiki/Haggis)?
   * [Haggis Box](https://www.thehaggisbox.com/) have a concession in the [Story Telling Centre on the High Street](https://www.google.com/maps/place/The+Haggis+Box/@55.9507253,-3.1848951,598m/data=!3m2!1e3!4b1!4m6!3m5!1s0x4887c75ca808a897:0xd56d4e983319cf5!8m2!3d55.9507253!4d-3.1848951!16s%2Fg%2F11fj6jpgtd?entry=ttu&g_ep=EgoyMDI1MDkxNy4wIKXMDSoASAFQAw%3D%3D). Best of gear. 
 * [Deep Fried Mars Bar](https://en.wikipedia.org/wiki/Deep-fried_Mars_bar).
   * [Cafe Picante](https://cafepiccante.co.uk/) at the top of [Broughton Street](https://www.google.com/maps/place/Cafe+Piccante/@56.8213361,-4.8446577,8z/data=!3m1!5s0x4887c78c3c540b53:0x1503d17862c9322f!4m6!3m5!1s0x4887c78c3bb73cb3:0x510ee3e36f72ccf7!8m2!3d55.9570555!4d-3.1879268!15sCgxjYWZlIHBpY2FudGVaDiIMY2FmZSBwaWNhbnRlkgEEY2FmZeABAA?shorturl=1) will service that need.
 
-## Mexican:
+## Mexican
 
 * [Taco Libre](https://www.tacolibre.co.uk/) - Shandwick Place - This is on my list to visit. 
 * [El Jefes](https://www.eljefes.co.uk/edinburgh/) - Nicholson Street - This is quite a new restaurant. I have yet to visit. 

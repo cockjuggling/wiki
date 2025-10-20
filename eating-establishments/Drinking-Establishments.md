@@ -2,7 +2,7 @@
 
 Edinburgh has a number of drinking establishments to provide you with libations. There are far too many to mention for one wiki page. The list noted below is not exhaustive. If you have any to add please [get in touch](mailto:reddit@cockjuggling.uk?subject=wiki) and we'll update our wiki.
 
-##### Traditional Pubs
+## Traditional Pubs
 
 * [The Sandy Bells](https://sandybells.com/) - Forrest Road.
 * [Oxford Bar](https://www.oxfordbar.co.uk/) - Young Street.
@@ -17,28 +17,28 @@ Edinburgh has a number of drinking establishments to provide you with libations.
 * [Cafe Royale](http://www.caferoyaledinburgh.com/) - West Register Street.
 * [Athletic Arms](https://athleticarms.co.uk/) (AKA Diggers) - Angle Park Terrace.
 
-##### Craft Beer Pubs
+## Craft Beer Pubs
 
 * [The Hanging Bat](https://www.thehangingbat.com/) - Lothian Road.
 * [Salthorse](https://www.salthorse.beer/) - Blackfriars Street, EH1.
 * [The Safari Lounge](https://www.thesafarilounge.co.uk/).
 * [Bennets of Morningside](https://www.facebook.com/p/Bennets-of-Morningside-100049263104501/).
 
-##### Scotland's Most Haunted Pub
+## Scotland's Most Haunted Pub
 
 [The Banshee Labyrinth](https://www.thebansheelabyrinth.com/) - Niddry St.
 
-##### Cocktail Bars
+## Cocktail Bars
 
 * [Bramble](https://www.bramblebar.co.uk/) - Queen Street.
 * [The Cuckoo's Nest](https://www.facebook.com/homebaredinburgh/?locale=en_GB) - Tollcross.
 * [Dragonfly](https://www.dragonflycocktailbar.com/) - West Port.
 
-##### Jazz Venue
+## Jazz Venue
 
 * [The Jazz Bar](https://www.thejazzbar.co.uk/) - Chambers Street.
 
-##### Pub Quizzes
+## Pub Quizzes
 
 Edinburgh has a number of Pub Quiz hsts that operate regularly at a number of drinking establishments around the city. Use these sites to find a quiz near to you.
 

@@ -41,9 +41,10 @@ There might not be many hours of daylight, and it might not be a day the sun com
 
 You may visit Edinburgh and your onward travel plans don't start until the afternoon. In some cases your accomodation may not be able to assist with holding your luggage for the few hours you check out and when you leave the city. Fear not, for Edinburgh has some locations for `left luggage`.
 
-* [Left Luggage](https://www.left-baggage.co.uk/en/locations/left-luggage-edinburgh-waverley) at Edinburgh Waverley Train Station.
+* [Luggage Point](https://www.luggage-point.co.uk/product-category/luggage-storage-edinburgh/) - at Waverley Market - 24hr of storage time is £11.25.
+* [Left Luggage](https://www.left-baggage.co.uk/en/locations/left-luggage-edinburgh-waverley) - at Waverley Train Station - 24hrs storage time £10 if pre-booked.
 * [St James Quarter](https://stjamesquarter.com/visit/left-luggage/) - £5 per day per bag.
-* [Stasher](https://stasher.com/), formerly City Stasher.
+* [Stasher](https://stasher.com/) -  formerly City Stasher.
 * [Radical Storage](https://radicalstorage.com/).
 * [Bounce](https://bounce.com/luggage-storage/edinburgh).
 * [Unbaggaged](https://unbaggaged.com/).

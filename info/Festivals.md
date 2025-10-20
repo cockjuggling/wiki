@@ -9,14 +9,10 @@ Edinburgh is blessed with a several festivals over the year. The list below summ
 Edinburgh Science Festival - 2026 dates -  4th–19th April
 Further information and guidance on events can be [found on their website](https://www.edinburghscience.co.uk/festival/).
 
----
-
 ## JUNE
 
 Leith Festival - June 2026 (Dates TBC).
 Further information can be [found on their website](https://www.leithfestival.com/).
-
----
 
 ## AUGUST
 
@@ -57,31 +53,26 @@ Further information, tickets and guidance can be [found on their website](https:
 
 ### Edinburgh International TV Festival
 
-Further information can be [found on their website](https://www.thetvfestival.com/).
+* Further information can be [found on their website](https://www.thetvfestival.com/).
 
 ### Edinburgh International Book Festival
 
-Further information can be [found on their website](https://www.edbookfest.co.uk/).
+* Further information can be [found on their website](https://www.edbookfest.co.uk/).
 
 ### Edinburgh Mela
 
 Further information can be [found on their Facebook page ](https://www.facebook.com/TheEdMela/).
----
+
 ### Edinburgh Art Festival
 
-Further information can be [found on their website](https://www.edinburghartfestival.com/).
-
----
+* Further information can be [found on their website](https://www.edinburghartfestival.com/).
 
 ## OCTOBER
 
-[Edinburgh International Storytelling Festival](https://www.edinburghfestivalcity.com/festivals/scottish-international-storytelling-festival) - 22 October-1 November.
-
-[Edinburgh ComicCon](https://www.comicconventionscotland.co.uk/) - 24th-25th October 2026
-
----
+* [Edinburgh International Storytelling Festival](https://www.edinburghfestivalcity.com/festivals/scottish-international-storytelling-festival) - 22 October-1 November.
+* [Edinburgh ComicCon](https://www.comicconventionscotland.co.uk/) - 24th-25th October 2026
 
 ## DECEMBER
 
-[Edinburgh's Hogmanay](https://www.edinburghfestivalcity.com/festivals/edinburghs-hogmanay) - 30 December 2025 - 1 January 2026.
-A [separate page](Christmas2025) has been created listing off the festivities around Christmas in Edinburgh 2026.
+* [Edinburgh's Hogmanay](https://www.edinburghfestivalcity.com/festivals/edinburghs-hogmanay) - 30 December 2025 - 1 January 2026.
+* A [separate page](https://www.reddit.com/r/Edinburgh/wiki/info/christmas2025) has been created listing off the festivities around Christmas in Edinburgh 2026.
