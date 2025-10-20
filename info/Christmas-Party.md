@@ -19,3 +19,4 @@ Please do your own research to ensure they meet your dinner / entertainment requ
 * [Mowgli](https://www.mowglistreetfood.com/) - [Christmas Menu](https://www.mowglistreetfood.com/menus/christmas-feasting/)
 * [Blonde](https://www.blonderestaurant.co.uk) - [Christmas Menu](https://www.blonderestaurant.co.uk/blonde-restaurant-menus/blonde-restaurant-set-dinner-menu/)
 * [Tuk Tuk](https://www.tuktukindianstreetfood.com/) - [Christmas Menu](https://static1.squarespace.com/static/61fff79ada75dc376fe6cc94/t/68dd6dec915ff342b6481dd9/1759342060966/Christmas+Menu+2025+%28Leven+St.%29_26.09.25_page-0001.jpg)
+* [Rabble](https://www.rabbleedinburgh.co.uk) - [Christmas Menu](https://www.rabbleedinburgh.co.uk/wp-content/uploads/2025/09/RABBLE-CHRISTMAS-BROCHURES-SEP25-1.pdf)
