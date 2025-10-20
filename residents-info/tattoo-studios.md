@@ -4,17 +4,31 @@ Below are listed a number of tattoo studios previously mentioned on the [/r/edin
 Do not take any listed studio as an endorsement of their work or capabilities.
 It is suggested you review this list of studios and find one you like, then speak to the studio and the artist about your specific requirements.
 
-* [Absolute Body Art Studio](https://absolutebodyart.studio/) - 23a Blair St, Edinburgh EH1 1QR
-* [Empire Ink](https://www.empire-ink.co.uk/) - 11 E Fountainbridge, Edinburgh EH3 9BH
-* [Okey Dokey Tattoo](https://tattooedinburgh.com/) - 19 Bread Street
-* [Watermelon Tattoo](https://watermelon.tattoo) - 14 E Norton Pl, Edinburgh EH7 5DR 
-* [Culture Tattoo](https://www.instagram.com/culture.tattoostudio) - 30-34 Queen Charlotte Street, Edinburgh, EH6 6AT
+## Old Town
+
+* [Absolute Body Art Studio](https://absolutebodyart.studio/) - Blair St, Edinburgh EH1 1QR
 * [Studio XIII Gallery](https://studioxiii.tattoo/) - Jeffrey St, Edinburgh EH1 1DR
-* [Insider](https://insidertattoo.com/) - 89 Henderson Street, Edinburgh, EH6 6ED
-* [St.Clair's Tattoo](https://www.instagram.com/st.clairstattoo) - 84 Portobello High St, Edinburgh EH15 1AN
-* [Relatively Painless Tattoo](https://www.relativelypainlesstattoo.com/) - 15 Portland Pl, Edinburgh EH6 6LA
-* [Dragonheart](https://www.dragonhearttattoo.co.uk/) - 260 Portobello High Street
-* [Take Note Tattoo](https://takenotetattoo.bigcartel.com/) - 51 Cumberland Street, Edinburgh, United Kingdom Eh36RA
+* [Tribal Body Art](https://www.tribalbodyart.co.uk/)  - Canongate, Edinburgh EH8 8AA
+
+## Gorgie/ Fountainbridge/ Haymarket
+
+* [Empire Ink](https://www.empire-ink.co.uk/) - East Fountainbridge, Edinburgh EH3 9BH
+* [Okey Dokey Tattoo](https://tattooedinburgh.com/) - Bread Street, Edinburgh EH3 9AL
 * [BLKWRK Tattoo Studio](https://blkwrkstudio.com/) - Blkwrk Studio, Haymarket Terrace, Edinburgh EH12 5LQ
-* [Sarah Louise Alexander](https://sarahlouisealexander.com/) - Best Friends Club, 37 1F2 Queensferry Street, Edinburgh, EH2 4QS
-* [Tribal Body Art](https://www.tribalbodyart.co.uk/)  - 248 Canongate, Edinburgh EH8 8AA
+
+## Leith/ Abbeyhill
+
+* [Watermelon Tattoo](https://watermelon.tattoo) - East Norton Place, Edinburgh EH7 5DR
+* [Insider](https://insidertattoo.com/) - Henderson Street, Edinburgh, EH6 6ED
+* [Relatively Painless Tattoo](https://www.relativelypainlesstattoo.com/) - Portland Place, Edinburgh EH6 6LA
+* [Culture Tattoo](https://www.instagram.com/culture.tattoostudio) - Queen Charlotte Street, Edinburgh, EH6 6AT
+
+## Portobello 
+
+* [St.Clair's Tattoo](https://www.instagram.com/st.clairstattoo) - Portobello High St, Edinburgh EH15 1AN
+* [Dragonheart](https://www.dragonhearttattoo.co.uk/) - Portobello High Street, Edinburgh, EH15 2AT
+
+## New Town
+
+* [Take Note Tattoo](https://takenotetattoo.bigcartel.com/) - 51 Cumberland Street, Edinburgh, EH3 6RA
+* [Sarah Louise Alexander](https://sarahlouisealexander.com/) - Best Friends Club, Queensferry Street, Edinburgh, EH2 4QS
