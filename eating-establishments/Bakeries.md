@@ -14,3 +14,4 @@ Edinburgh has many bakeries to choose from throughout the city. Although Greggs 
 * [Krema Bakehouse](https://instagram.com/kremabakehouse) - Leith Walk.
 * [The Pastry Section](http://www.pastrysection.com/) - Great Junction Street.
 * [Dune Bakery](https://www.dunebakery.com/) - South Queensferry.
+* [La Barantine](https://www.labarantine.com/) - Bruntsfield.
