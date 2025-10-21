@@ -1,11 +1,11 @@
 # Entertainment Venues
 
-Edinburgh has a number of theatres and cinemas to meet your entertainment needs. These are noted below;
+Edinburgh has a number of theatres and cinemas to meet](your entertainment needs. These are noted below;
 
 ## Theatres
 
 * [The Edinburgh Playhouse](https://www.playhousetheatre.com/) - Scotland's larges theatre with 3509 seats
-  * Tickets are via [ATG TIckets](https://www.atgtickets.com/venues/edinburgh-playhouse/)
+  * Tickets are via [ATG TIcket](https://www.atgticket.com/venues/edinburgh-playhouse/)
 * [Festival Theatre](https://www.capitaltheatres.com/our-venues/festival-theatre/)
 * ~~[King's Theatre](https://www.capitaltheatres.com/our-venues/kings-theatre/)~~ - under rennovation
 * [Studio Theatre](https://www.capitaltheatres.com/our-venues/studio-theatre/)
@@ -15,7 +15,7 @@ Edinburgh has a number of theatres and cinemas to meet your entertainment needs.
 
 ## Event Spaces
 
-* [The Queens Hall](https://www.thequeenshall.net/) - A venue like no other in Edinburgh.
+* [The Queens Hall](https://www.thequeenshall.net) - A venue like no other in Edinburgh.
 
 ## Cinemas
 
@@ -61,3 +61,35 @@ Edinburgh lacks large music venues, but there are plans to build one [in the fut
   * [Edinburgh Summer Sessions](https://www.smmrsessions.com/locations/edinburgh) will be hosted here
 * [Murrayfield Stadium](https://scottishrugby.org/)
   * Although primarily this is the national stadium for Rugby it continues to be used as a music venue during the summer months. Hosting Taylor Swift (2024) and Oasis (Summer 2025).
+
+## Wedding Venues
+
+This list is shamelessly lifted from a thread that [CaptainCymru](/u/CaptainCymru) responded to. It's been added to and extended with other venues.
+
+* [Queen Anne Building](https://www.edinburghcastle.scot/venue-hire/private-events), Edinburgh Castle
+* [Stratosphere](https://dynamicearth.org.uk/event-hire/our-spaces/stratosphere/), Dynamic Earth
+* [National Museum of Flight](https://www.nms.ac.uk/venue-hire/national-museum-of-flight), East Fortune Airfield
+* [Rooftop](https://www.nms.ac.uk/venue-hire/national-museum-of-scotland/rooftops), National Museum of Scotland
+* [Assembly Rooms](https://www.assemblyroomsedinburgh.co.uk/), George Street
+* [City Chambers](https://www.edinburghcitychambers.co.uk/), High Street
+* [Dovecot Studios](https://dovecotstudios.com/venue-hire), Infirmary Street
+* [Mansfield Traquir](https://www.mansfieldtraquair.co.uk/), Mansfield Place
+* [National Gallery](https://www.nationalgalleries.org/), Princes Street
+* [Botanic Gardens](https://www.rbge.org.uk/), New Town
+* [College of Physicians](https://venue.rcpe.co.uk/), Queen Street
+* [Signet Library](https://www.thesignetlibrary.co.uk/), Parliament Square
+* [The Caledonian](https://www.hilton.com/en/hotels/ednchqq-the-caledonian-edinburgh/events/), Princes Street
+* [The Scotsman](https://scotsmanhotel.co.uk/meetings-events/), North Bridge
+* [Royal Scots Club](https://royalscotsclub.com/meetings-conferences/), Abercromby Place
+* [Leith Distillery](https://www.leithdistillery.com/privateroomhire), Port of Leith
+* [Johnnie Walker](https://www.johnniewalker.com/en-gb/visit-us-princes-street), Princes Street
+* [Fingal](https://www.fingal.co.uk/events-meetings/events-meetings/), Port of Leith
+* [Jupiter Artland](https://www.jupiterartland.org/venue-hire/), Wilkieston
+* [Ghillie Dhu](https://ghillie-dhu.co.uk/weddings/), Shandwick Place
+* [Colonnades](https://www.thesignetlibrary.co.uk/colonnades/), Royal Mile
+* [Riddles Court](https://www.shbt.org.uk/our-buildings/riddles-court/) - [Event Guide](https://www.shbt.org.uk/wp-content/uploads/2021/10/Parties-and-Private-Dining.pdf), Royal Mile
+* [Leith Arches](https://leitharches.com/wedding-venue/), Leith
+* [The Old Dr Bells Baths](https://theolddrbellsbaths.com/weddings/), Leith
+* [Edinburgh Zoo](https://www.edinburghzoo.org.uk/events-experiences/venue-hire/weddings), Corstorphine
+* [Dynamic Earth](https://dynamicearth.org.uk/event-hire/weddings/), Canongate
+* [Greyfriars Charteris Centre](http://www.charteriscentre.com/), Pleasance

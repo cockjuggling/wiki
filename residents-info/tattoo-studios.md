@@ -23,7 +23,7 @@ It is suggested you review this list of studios and find one you like, then spea
 * [Relatively Painless Tattoo](https://www.relativelypainlesstattoo.com/) - Portland Place, Edinburgh EH6 6LA
 * [Culture Tattoo](https://www.instagram.com/culture.tattoostudio) - Queen Charlotte Street, Edinburgh, EH6 6AT
 
-## Portobello 
+## Portobello
 
 * [St.Clair's Tattoo](https://www.instagram.com/st.clairstattoo) - Portobello High St, Edinburgh EH15 1AN
 * [Dragonheart](https://www.dragonhearttattoo.co.uk/) - Portobello High Street, Edinburgh, EH15 2AT
