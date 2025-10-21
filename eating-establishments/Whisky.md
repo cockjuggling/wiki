@@ -13,6 +13,6 @@ Although Scotland is famous for it's Whisky there are a number of distilleries w
 
 * The closest small one is located in the city at HolyRood - [Holyrood Distillery](https://holyrooddistillery.co.uk/) - There are a number of experiences available  - [book a tour](https://holyrooddistillery.co.uk/book-a-tour/).
 
-* The [Port of Leith](https://www.leithdistillery.com/) has a Distillery coming online and is within walking distance of [HMY Britannia](https://www.royalyachtbritannia.co.uk/ - [Book a tour](https://www.leithdistillery.com/thetour) - £26. There is no tasting available as their whisky is still less than the minimum 3 years old to be classed as Scottish Malt Whisky.
+* The [Port of Leith](https://www.leithdistillery.com/) has a Distillery coming online and is within walking distance of [HMY Britannia](https://www.royalyachtbritannia.co.uk/) - [Book a tour](https://www.leithdistillery.com/thetour) - £26. There is no tasting available as their whisky is still less than the minimum 3 years old to be classed as Scottish Malt Whisky.
 
 * The closest large one owned by [Diageo](https://www.diageo.com/en) to Edinburgh is [Glenkinchie](https://www.malts.com/en/glenkinchie) in East Lothian. A bus from Edinburgh to their distillery — [info here](https://www.malts.com/en/distilleries/glenkinchie) - Transport + Tour is about £20 per adult.
