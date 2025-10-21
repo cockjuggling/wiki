@@ -54,13 +54,14 @@ You may visit Edinburgh and your onward travel plans don't start until the after
 
 ### Lost Property
 
-You may be unfortuante to be separated from your items, misplace them on your travels or leave them on public transport. Below are a nuimber of places to contact to enquire if your item has been handed in. 
+You may be unfortuante to be separated from your items, misplace them on your travels or leave them on public transport. Below are a nuimber of places to contact to enquire if your item has been handed in.
 
 * Police Scotland - [Lost Property](https://www.scotland.police.uk/contact-us/report-lost-property/).
   
 ### Public Transport in Edinburgh
 
-* Edinburgh Airport - [Luggage Point](https://www.edinburghairport.com/help/lost-property-and-left-luggage).
+### Bus & Tram
+
 * Lothian Buses -[Lost Property](https://support.lothianbuses.com/hc/en-gb/categories/11424115859997-Lost-Property).
 * Edinburgh Trams - [Lost Property](https://edinburghtrams.com/contact/lost-property).
 
