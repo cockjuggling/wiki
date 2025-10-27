@@ -81,4 +81,4 @@ Multiple tran operators utilise Edinburgh Waverley - it is advised to contact yo
 * Avanti - [Lost Property](https://www.avantiwestcoast.co.uk/help-and-support/lost-property).
 * CrossCountry - [Lost Property](https://www.crosscountrytrains.co.uk/help-support/contact-us/lost-property).
 * Lumo - [Lost Property](https://www.lumo.co.uk/help/lost-property).
-* [Caledonian Sleeper](https://www.sleeper.scot/help-support/after-your-trip/#2).
+* Caledonian Sleeper - [Lost Property](https://www.sleeper.scot/help-support/after-your-trip/#2).

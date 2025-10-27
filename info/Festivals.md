@@ -71,6 +71,7 @@ Further information can be [found on their Facebook page ](https://www.facebook.
 
 * [Edinburgh International Storytelling Festival](https://www.edinburghfestivalcity.com/festivals/scottish-international-storytelling-festival) - 22 October-1 November.
 * [Edinburgh ComicCon](https://www.comicconventionscotland.co.uk/) - 24th-25th October 2026
+* [Edinburgh Horror Festival](https://www.edhorrorfest.co.uk/) - 23rd-31st October 2025
 
 ## DECEMBER
 
