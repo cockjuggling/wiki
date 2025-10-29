@@ -38,6 +38,17 @@ Edinburgh has a number of drinking establishments to provide you with libations.
 
 * [The Jazz Bar](https://www.thejazzbar.co.uk/) - Chambers Street.
 
+## Pubs & Bars that may have Gigs & DJs
+
+Thanks to [/u/EdiExplorer](https://www.reddit.com/user/EdiExplorer/) for the compilation of bars with gigs links.
+
+* [Wee Red Bar](https://www.weeredbar.co.uk/).
+* [Leith Depot](https://leithdepot.com/).
+* [Mother Superior](https://www.facebook.com/themothersuperiorbar).
+* [West Port Oracle](https://aaronmmain.wixsite.com/west-port-oracle).
+* [Argyle Cellar Bar](https://edinburghvenue.co.uk/).
+* [Uno Mas](https://www.unomasbar.co.uk/).
+
 ## Pub Quizzes
 
 Edinburgh has a number of Pub Quiz hsts that operate regularly at a number of drinking establishments around the city. Use these sites to find a quiz near to you.

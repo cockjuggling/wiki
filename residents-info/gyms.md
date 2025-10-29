@@ -2,6 +2,20 @@
 
 The city has many gynmasiums with their own set of amenities. This is a non-exhaustive list of gyms throughout. Use this list to locate one near you and check that it's facilities meet your own personal requirements.
 
+
+
+Gorgie/ Fountainbridge/ Haymarket
+
+Old Town
+
+Leith/ Abbeyhill
+
+Portobello
+
+New Town
+
+
+
 ## PureGym
 
 [Website](https://www.puregym.com/city/#city-gyms)
