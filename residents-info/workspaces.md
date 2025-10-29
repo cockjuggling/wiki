@@ -14,6 +14,7 @@ The city has a number of locations where you can sit with your laptop and work. 
 * [Clockwise](https://work-clockwise.com/locations/edinburgh-leith/#) - Commercial Street, Leith - £25 per day
 * [Strathmore](https://strathmoreedinburgh.com/co-working-york-place/) - York Place - no day pass avaialble, but it is a co-working space - £250+VAT per month, min 2 month commitment.
 * [Foxglove](https://foxgloveoffices.com/coworking-space/) - 4 Links Place - £12 per day.
+* [Spaces](https://www.spacesworks.com/edinburgh/lochrin-square/) - Lochrin Square - no day passes - monthly commitment required.
 
 ## Useful Apps
 
