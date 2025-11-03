@@ -6,8 +6,8 @@ It is suggested you review this list of studios and find one you like, then spea
 
 ## Old Town
 
-* [Absolute Body Art Studio](https://absolutebodyart.studio/) - Blair St, Edinburgh EH1 1QR
-* [Studio XIII Gallery](https://studioxiii.tattoo/) - Jeffrey St, Edinburgh EH1 1DR
+* [Absolute Body Art Studio](https://absolutebodyart.studio/) - Blair Street, Edinburgh EH1 1QR
+* [Studio XIII Gallery](https://studioxiii.tattoo/) - Jeffrey Street, Edinburgh EH1 1DR
 * [Tribal Body Art](https://www.tribalbodyart.co.uk/)  - Canongate, Edinburgh EH8 8AA
 
 ## Gorgie/ Fountainbridge/ Haymarket
@@ -25,10 +25,10 @@ It is suggested you review this list of studios and find one you like, then spea
 
 ## Portobello
 
-* [St.Clair's Tattoo](https://www.instagram.com/st.clairstattoo) - Portobello High St, Edinburgh EH15 1AN
+* [St.Clair's Tattoo](https://www.instagram.com/st.clairstattoo) - Portobello High Street, Edinburgh EH15 1AN
 * [Dragonheart](https://www.dragonhearttattoo.co.uk/) - Portobello High Street, Edinburgh, EH15 2AT
 
 ## New Town
 
-* [Take Note Tattoo](https://takenotetattoo.bigcartel.com/) - 51 Cumberland Street, Edinburgh, EH3 6RA
+* [Take Note Tattoo](https://takenotetattoo.bigcartel.com/) - Cumberland Street, Edinburgh, EH3 6RA
 * [Sarah Louise Alexander](https://sarahlouisealexander.com/) - Best Friends Club, Queensferry Street, Edinburgh, EH2 4QS

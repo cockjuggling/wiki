@@ -22,7 +22,7 @@ This may be less relevant in the winter months and you might not need it, but it
 * [Boots](https://www.boots.com/StoreLookupView).
 * [Superdrug](https://www.superdrug.com/store-finder).
 * Local pharmacy - [Google is your friend](https://maps.google.co.uk/). 
-* Possibly in [Tesco Express](https://www.tesco.com/store-locator/)/ [Sainsbury's Local](https://stores.sainsburys.co.uk/) (Size of store dependent). 
+* Possibly in [Tesco Express](https://www.tesco.com/store-locator/)/ [Sainsbury's Local](https://stores.sainsburys.co.uk/) (Size of store dependent).
   
 ### Sunglasses
 
@@ -39,12 +39,12 @@ There might not be many hours of daylight, and it might not be a day the sun com
 
 ## Luggage Storage
 
-You may visit Edinburgh and your onward travel plans don't start until the afternoon. In some cases your accomodation may not be able to assist with holding your luggage for the few hours you check out and when you leave the city. Fear not, for Edinburgh has some locations for `left luggage`.
+You may visit Edinburgh and your onward travel plans don't start until the afternoon. In some cases your accommodation may not be able to assist with holding your luggage for the few hours you check out and when you leave the city. Fear not, for Edinburgh has some locations for `left luggage`.
 
 * [Luggage Point](https://www.luggage-point.co.uk/product-category/luggage-storage-edinburgh/) - at Waverley Market - 24hr of storage time is £11.25.
 * [Left Luggage](https://www.left-baggage.co.uk/en/locations/left-luggage-edinburgh-waverley) - at Waverley Train Station - 24hrs storage time £10 if pre-booked.
 * [St James Quarter](https://stjamesquarter.com/visit/left-luggage/) - £5 per day per bag.
-* [Stasher](https://stasher.com/) -  formerly City Stasher.
+* [Stasher](https://stasher.com/) -  formerly `City Stasher`.
 * [Radical Storage](https://radicalstorage.com/).
 * [Bounce](https://bounce.com/luggage-storage/edinburgh).
 * [Unbaggaged](https://unbaggaged.com/).
@@ -54,7 +54,7 @@ You may visit Edinburgh and your onward travel plans don't start until the after
 
 ### Lost Property
 
-You may be unfortuante to be separated from your items, misplace them on your travels or leave them on public transport. Below are a nuimber of places to contact to enquire if your item has been handed in.
+You may be unfortunate to be separated from your items, misplace them on your travels or leave them on public transport. Below are a number of places to contact to enquire if your item has been handed in.
 
 * Police Scotland - [Lost Property](https://www.scotland.police.uk/contact-us/report-lost-property/).
   

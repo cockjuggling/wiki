@@ -1,4 +1,4 @@
-# **Suggested Walks:** 
+# Suggested Walks
 
 Edinburgh is a very walkable city. Below are a small list of suggested walks to take on your visit to take in the sights, or just have a relaxing walk.
 

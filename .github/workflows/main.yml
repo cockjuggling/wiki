@@ -1,14 +1,14 @@
-name: Sample Workflow
-
-on: [push]
-
+name: Linkspector
+on: [pull_request]
 jobs:
-  build:
+  check-links:
+    name: runner / linkspector
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
-        uses: actions/checkout@v3
-      - name: Check URLs
-        uses: paramt/url-checker@master
+      - uses: actions/checkout@v4
+      - name: Run linkspector
+        uses: umbrelladocs/action-linkspector@v1
         with:
-          files: "README.md"
+          github_token: ${{ secrets.github_token }}
+          reporter: github-pr-review
+          fail_level: any

@@ -3,7 +3,7 @@
 Edinburgh has numerous hostels for the frugal and weary traveller. 
 Usage of sites such as [HostelWorld](https://www.hostelworld.com/hostels/europe/scotland/edinburgh/) may be useful to find availability over a number of locations in the city. However, if you wish to contact hostels directly, then a list is noted below.
 
-I cannot however provide a recoomendation for any of these hostels as I am an Edinburgh resident and don't require local accommodation. Please do your own research for reviews and feedback. 
+I cannot however provide a recoomendation for any of these hostels as I am an Edinburgh resident and don't require local accommodation. Please do your own research for reviews and feedback.
 
 * [Castle Rock Hostel](https://www.castlerockedinburgh.com/)
 * [High Street Hostel](https://www.highstreethostel.com/)

@@ -2,7 +2,7 @@
 
 There are a few methods of gaining internet access in Edinburgh:  
 
-1. Via an Internet Service Provider. Depending on location in Edinburgh your options may be limited to ADSL (rare), Fibre to the Cabinet or Fibre to the Premises (Full Fibre). [Check availability](http://www.superfast-openreach.co.uk/where-and-when/) of services if you know the post code of the propert you are moving into. Provisioning of service may take a week and will no doubt require access to the property. Plan this in if you decide to order services, but have not taken possession of keys. If new service is being provisioned it may involve drilling holes into the property. Please seek your landlord's permission before advising any installation team.
+1. Via an Internet Service Provider. Depending on location in Edinburgh your options may be limited to ADSL (rare), Fibre to the Cabinet or Fibre to the Premises (Full Fibre). [Check availability](http://www.superfast-openreach.co.uk/where-and-when/) of services if you know the post code of the property you are moving into. Provisioning of service may take a week and will no doubt require access to the property. Plan this in if you decide to order services, but have not taken possession of keys. If new service is being provisioned it may involve drilling holes into the property. Please seek your landlord's permission before advising any installation team.
    1. [USwitch](https://www.uswitch.com/broadband/) provide a broadband comparison site.
    2. [Money Saving Expert](https://www.moneysavingexpert.com/compare-broadband-deals/) also provides their own price comparison site.
 

@@ -34,7 +34,7 @@ Edinburgh has a number of theatres and cinemas to meet your entertainment needs.
   * [Omni Centre](https://www.myvue.com/cinema/edinburgh-omni-centre/whats-on)
   * [Ocean Terminal](https://www.myvue.com/cinema/edinburgh-ocean-terminal/whats-on)
 
-* Everyman Cinemna
+* Everyman Cinema
   * [St James Quarter](https://www.everymancinema.com/)
 
 ### Independent Cinemas

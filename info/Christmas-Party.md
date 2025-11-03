@@ -14,7 +14,7 @@ Please do your own research to ensure they meet your dinner / entertainment requ
 * [Amarone](https://www.amaronerestaurant.co.uk/) - [Christmas Menu](https://www.amaronerestaurant.co.uk/christmas-edi)
 * [The Devil's Advocate](https://devilsadvocateedinburgh.co.uk) - [Christmas Menu](https://devilsadvocateedinburgh.co.uk/wp-content/uploads/2025/09/DA_Xmas_25_WEB.pdf)
 * [Queens Arms](https://www.queensarmsedinburgh.com) - [Christmas Menu](https://www.queensarmsedinburgh.com/wp-content/uploads/sites/13/2025/08/TQA_CHRISTMAS_4PP.pdf)
-* [20 Princes Street](https://twentyprincesstreet.co.uk) - [Chrismas Menu](https://twentyprincesstreet.co.uk/wp-content/uploads/sites/50/2025/07/Twenty-Christmas-Brochure-2025-ONLINE.pdf)
+* [20 Princes Street](https://twentyprincesstreet.co.uk) - [Christmas Menu](https://twentyprincesstreet.co.uk/wp-content/uploads/sites/50/2025/07/Twenty-Christmas-Brochure-2025-ONLINE.pdf)
 * [MalMaison on the shore](https://www.malmaison.com) - [Christmas Menu](https://www.malmaison.com/media/btihqtxl/29482_mal_christmas_day_24_menu_a4_v2_nosc.pdf)
 * [Mowgli](https://www.mowglistreetfood.com/) - [Christmas Menu](https://www.mowglistreetfood.com/menus/christmas-feasting/)
 * [Blonde](https://www.blonderestaurant.co.uk) - [Christmas Menu](https://www.blonderestaurant.co.uk/blonde-restaurant-menus/blonde-restaurant-set-dinner-menu/)

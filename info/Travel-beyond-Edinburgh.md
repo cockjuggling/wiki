@@ -25,7 +25,7 @@
 
 ## Guided Coach Tours
 
-There are a number of minibus/ coach tours that leave from Edinburgh to a wide variety of destinations beyond Edinburgh. If you want to cram in a good number of sights into a few days - then this is the best way to do it. 
+There are a number of minibus/ coach tours that leave from Edinburgh to a wide variety of destinations beyond Edinburgh. If you want to cram in a good number of sights into a few days - then this is the best way to do it.
 
 * [Haggis Adventures](https://www.haggisadventures.com/).
 * [Discover Scotland Tours](https://www.discoverscotlandtours.com/tours-from-edinburgh/).

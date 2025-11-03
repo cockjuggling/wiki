@@ -188,9 +188,9 @@ If you are a student I highly recommend getting student housing your first year.
 
 ### UK bank account required
 
-It is very difficult to do anything without a UK bank account, including renting a place. Unfortunately, you need an address to get a UK bank account. Challenger banks such as [Monzo](https://www.monzo.com/) or [Starling](https://www.starlingbank.com/) may be easier to apply and get a bank account. However, a bricks and mortar bank may also be a better option. For example, HSBC offer a [bank account for International Student](https://www.hsbc.co.uk/current-accounts/products/international-student/). 
+It is very difficult to do anything without a UK bank account, including renting a place. Unfortunately, you need an address to get a UK bank account. Challenger banks such as [Monzo](https://www.monzo.com/) or [Starling](https://www.starlingbank.com/) may be easier to apply and get a bank account. However, a bricks and mortar bank may also be a better option. For example, HSBC offer a [bank account for International Student](https://www.hsbc.co.uk/current-accounts/products/international-student/).
 
-#### Other Bricks and Mortar banks operating in Edinburgh to apply for a bank account
+#### Other Bricks and Mortar banks operating in Edinburgh
 
 * [Bank of Scotland](https://www.bankofscotland.co.uk)
 * [Royal Bank of Scotland](https://www.rbs.co.uk)/ [NatWest](https://www.natwest.com/)
