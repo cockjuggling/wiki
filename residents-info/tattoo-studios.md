@@ -1,6 +1,6 @@
 # Tattoo Studios of Edinburgh
 
-Below are listed a number of tattoo studios previously mentioned on the [/r/edinburgh](https://www.reddit.com/r/edinburgh/) subreddit.
+Below are listed a number of tattoo studios previously mentioned on the [/r/edinburgh](https://www.reddit.com/r/edinburgh/) subreddit. This is not an exhaustive list of Studios in Edinburgh. 
 Do not take any listed studio as an endorsement of their work or capabilities.
 It is suggested you review this list of studios and find one you like, then speak to the studio and the artist about your specific requirements.
 
@@ -15,6 +15,7 @@ It is suggested you review this list of studios and find one you like, then spea
 * [Empire Ink](https://www.empire-ink.co.uk/) - East Fountainbridge, Edinburgh EH3 9BH
 * [Okey Dokey Tattoo](https://tattooedinburgh.com/) - Bread Street, Edinburgh EH3 9AL
 * [BLKWRK Tattoo Studio](https://blkwrkstudio.com/) - Blkwrk Studio, Haymarket Terrace, Edinburgh EH12 5LQ
+* [INKDEPENDENT Tattoo](https://inkdependent.eu/) - Dalry Doad, EH11 2BA
 
 ## Leith/ Abbeyhill
 
@@ -22,6 +23,7 @@ It is suggested you review this list of studios and find one you like, then spea
 * [Insider](https://insidertattoo.com/) - Henderson Street, Edinburgh, EH6 6ED
 * [Relatively Painless Tattoo](https://www.relativelypainlesstattoo.com/) - Portland Place, Edinburgh EH6 6LA
 * [Culture Tattoo](https://www.instagram.com/culture.tattoostudio) - Queen Charlotte Street, Edinburgh, EH6 6AT
+* [Explodink Tattoo](https://www.instagram.com/explodinktattoostudio) - Easter Rd, Edinburgh EH6 8LQ
 
 ## Portobello
 
