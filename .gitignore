@@ -14,3 +14,7 @@ Thumbs.db
 # Ignore environment and secret files
 .env
 config.json
+
+
+.vscode
+settings,json

@@ -55,3 +55,4 @@ Edinburgh has a number of Pub Quiz hsts that operate regularly at a number of dr
 
 * Dr Paul - [Find a Quiz](http://dpquizlive.co.uk/find-a-pub-quiz/).
 * Goose Quizzes - [Quiz Map](https://www.goosesquizzes.com/map).
+* The Bad Boy Pub Quiz - [Weekly quiz schedule is publicised on Facebook](https://www.facebook.com/thebadboypubquiz/).

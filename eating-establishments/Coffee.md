@@ -34,13 +34,13 @@ This is not an exhastive list of independent coffee shops in Edinburgh, but they
 
 * [Beatnik Coffee](https://www.beatnik.cafe/).
 
-## Gorgie Fountainbridge / Haymarket
+## Gorgie, Fountainbridge / Haymarket
 
 * [Bast*rd Barista](https://www.bastardbarista.com/).
 * [Books N' Cup Cafe](https://books-n-cup-cafe.menu-world.com/).
 * [Bonnie Barista](https://bonniebarista.co.uk/).
 
-Leith/ The Shore
+Leith / The Shore
 
 * [William and Johnson](https://www.williamsandjohnson.com/).
 * [Kuna Cafe](https://www.instagram.com/kunacafe/?hl=en).
