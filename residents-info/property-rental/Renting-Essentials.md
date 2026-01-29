@@ -17,7 +17,7 @@ There are websites to use that will have access to 99% of the available properti
 ### Privately rented accommodation
 
 * [Gumtree](http://www.gumtree.com/flats-and-houses-for-rent/edinburgh) - mainly contains property from private landlords and some rooms to let (more about these later)  
-* [Spare Room](http://www.spareroom.co.uk) - mainly rooms to let
+* [Spare Room](http://www.spareroom.co.uk) - mainly rooms to let.
 
 ## Where to live
 
@@ -28,21 +28,39 @@ Edinburgh is generally very safe and you will be fine most of the time. There ar
 
 ## Transportation
 
-Transportation costs should factor into your budgeting. If you need to use the bus services daily, you will need a bus pass (costs £40 month for student, £51 for everyone else). IF you take into account commuting time, a cheaper flat may just not worth it in the end. If your university or work place is in the outskirts of Edinburgh, you should still target to live in the city centre, because this is where the fun is and otherwise you will end up isolated and not making the most of your time here (Herriot-Watt students are subject to this problem). Just make sure you're living near a bus that takes you to your daily destination instead of living outside Edinburgh.  
+Transportation costs should factor into your budgeting. If you need to use the bus services daily, you will need a bus pass (costs £62.50 per month for student, £73 for everyone else). IF you take into account commuting time, a cheaper flat may just not worth it in the end. If your university or work place is in the outskirts of Edinburgh, you should still target to live in the city centre, because this is where the fun is and otherwise you will end up isolated and not making the most of your time here (Heriot-Watt students are subject to this problem). Just make sure you're living near a bus that takes you to your daily destination instead of living outside Edinburgh.  
 
 Another thing to consider is local amenities. For example, it is better to live near a large super market and it will probably save you money in the long run (buy your food every day rather than takeaway). There are many small super markets but usually the range of products on offer is boring and suited for people who don't have time to cook.  
 
 ## How to move around
 
+### Bus and Tram
+
 Edinburgh has great bus coverage and a recently opened, yet quite useless, tram line. There is no underground. Wherever you are, you're not far away from a bus stop and there would be a bus coming very frequently. Many bus services run every 10 or 20 minutes, it is only a few that run every 30'. You can use Google Maps to see the bus stops near buy and be able to ask it to give you directions on your typical destinations (e.g. your campus) using public transport. However, using the buses daily can be pricey, so many people prefer to rent near their regular daily destination and just walk there. There are some very helpful apps:  
 
 * [Google maps](https://maps.google.co.uk/) - tells you where you need to go and which buses will take you there  
 
+* CityMapper has also been previously recommended as useful - [iOS](https://apps.apple.com/gb/app/citymapper-your-transport-app/id469463298) or [Android](https://play.google.com/store/search?q=citymapper&c=apps&hl=en_GB)
+
 * Official Bus Tracker and eTickets - [iOS](https://apps.apple.com/gb/app/bus-tram/id6468092588) or [Android](https://play.google.com/store/apps/details?id=travel.ticketless.app.lothian&pcampaignid=web_share)
+
+
+
+### Private Car Ownership
 
 Using a car is not popular and not recommended. The traffic is not that much but parking is horrible. Also, owning a car in the UK will cost A LOT in insurance (we're talking £1000/year just for that) and the car's value depreciates very fast. Generally a very bad option for newcomers, unless if your workplace is in the middle of nowhere. You also have to drive on the left.  
 
+### Car Hire
+
+Edinburgh operates as part of the [Enterprise Car Club](https://www.enterprisecarclub.co.uk/gb/en/programs/regions/scotland/edinburgh.html) (previously City Car Club). This has numerous  cars dotted about Edinburgh for you to book, collect and drive off to do your tasks in. Return back to it's spot at the end of your booking and get a bill for your usage at the end of the month. They have numerous sizes of cars available and a few vans too. Book by the hour, or as you require. A list of car locations is [available here](https://www.edinburgh.gov.uk/carclub).
+
+### Cycling
+
 Cycling is a reasonably good option for the adventurous. You will get the occasional asshole driver but most drivers are good and calm. There is reasonably good cycle lane network.  Edinburgh also has brought back the [bike rental scheme](https://www.voi.com/how-to-voi) in summer 2025. This service is operated by VOI. [Fares for utilising this service are available online](https://www.voi.com/pricing-and-passes).
+
+### Bike Hire Scheme
+
+Edinburgh has recently  seen the return of bike hire on the street thanks to VOI taking on this contract. Bikes can be hired conveniently from your phone. [Check out VOI for further information](https://www.voi.com/city/edinburgh).
 
 ## Procedure to find a flat
 
@@ -72,7 +90,7 @@ Book another 5 working days in the hotel you're are staying or elsewhere, it is 
 
 ### Letting a room only
 
-You may have noticed a lot of hurdles in renting a property when you are a first mover. This is why many people chose to just rent a room and live with strangers, and there is nothing wrong with that. There are literally a million rooms available and they can be found on gumtree. The process involves a viewing and also some small talk to see whether you fit with the other tenants. Usually people try to match like with like, undergraduate students, postgraduate students, young professionals, females, males, tobacco smokers, weed smokers, non-smokers, gays, etc are all groups of people who may be looking for similar flatmates. A landlord, of course, exists but most likely they don't live in the property. He or she will, however, require deposits, guarantors etc, same as a typical agent, but it is the tenants who choose you (because they can, if it's not you, it will be the next guy coming up in half an hour).  
+You may have noticed a lot of hurdles in renting a property when you are a first mover. This is why many people choose to just rent a room and live with strangers, and there is nothing wrong with that. There are literally a million rooms available and they can be found on gumtree. The process involves a viewing and also some small talk to see whether you fit with the other tenants. Usually people try to match like with like, undergraduate students, postgraduate students, young professionals, females, males, tobacco smokers, weed smokers, non-smokers, gays, etc are all groups of people who may be looking for similar flatmates. A landlord, of course, exists but most likely they don't live in the property. He or she will, however, require deposits, guarantors etc, same as a typical agent, but it is the tenants who choose you (because they can, if it's not you, it will be the next guy coming up in half an hour).  
 
 ### Private landlords and smaller agents
 
@@ -198,6 +216,7 @@ It is very difficult to do anything without a UK bank account, including renting
 * [TSB](http://www.tsb.co.uk/)
 * [Santander](https://www.santander.co.uk/)
   
+
 If you don't like the place you're at, you can give 28 days notice. There are no more 6 month lease requirements, that's not even an option with new tenant laws.
 
 This city currently has a BRUTAL housing market. Godspeed to any of you trying to move here right now.
