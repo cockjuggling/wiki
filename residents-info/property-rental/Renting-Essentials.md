@@ -144,13 +144,13 @@ If your property has a small problem, you should complain to the agent/landlord 
 
 ### Deposits and guarantors
 
-Almost all landlords will ask for a deposit. This deposit should be stored with a deposit protection scheme. Scotland has three operators currently. 
+Almost all landlords will ask for a deposit. This deposit should be stored with a deposit protection scheme. Scotland has three operators currently.
 
-* [Letting Protecion Scotland](https://www.lettingprotectionscotland.com/)
+* [Letting Protection Scotland](https://www.lettingprotectionscotland.com/)
 * [My Deposits Scotland](https://www.mydepositsscotland.co.uk/)
 * [Safe Deposits Scotland](https://www.safedepositsscotland.com/)
 
- This is usually one month's worth of rent and it is refundable **after** you leave the flat and **after** the landlord/agent has checked that everything is in good condition. Some agents will let you be present when the final inspection happens and you may even get the option for a pre-inspection to make things right if you ask - do ask. Deposits cannot be more than 2 month's rent. 
+ This is usually one month's worth of rent and it is refundable **after** you leave the flat and **after** the landlord/agent has checked that everything is in good condition. Some agents will let you be present when the final inspection happens and you may even get the option for a pre-inspection to make things right if you ask - do ask. Deposits cannot be more than 2 month's rent.
 
  If damage is detected at the point of exiting your rented property repairs to the property are taken from your deposit before the remainder of it is returned to you. Should you believe that the damage being claimed for is inaccurate, or overpriced you can appeal the costs and have this assessed based on your presented evidence and that take at check-out.
 
@@ -162,7 +162,7 @@ If you are a professional with a job offer, they will need to see that offer and
 
 Heating is a big part of your monthly bills, Edinburgh is cold and old flats are not well insulated. Most heat is released from cracks in the windows, hence double-glazed/modern windows are superior to the old wooden ones. Flats with gas heating (also called central heating or gas central heating or GCH) are cheaper to keep warm and so are flats with double glazing. The number of windows and their size also plays an important role. Electric heating is to be avoided, unless if you have no choice.  
 
-Properties in scotland pay tax to the local government, known as Council Tax. Each property is classified in a band and the amounts for each band are available [here](http://www.edinburgh.gov.uk/info/20005/council_tax/620/council_tax_bands_and_charges). This cost is usually not included in the property's rent (unless if the property is advertised as "all bills inclusive") yet it should be taken into account, as it can vary between two very similar properties. Students are exempt from this charge while if you live alone (or all your other flatmates are students) you can claim 25% discount. You will have to apply to the City Council before you're granted an exception or discount.  
+Properties in scotland pay tax to the local government, known as Council Tax. Each property is classified in a band and the amounts for each [band are available here](http://www.edinburgh.gov.uk/info/20005/council_tax/620/council_tax_bands_and_charges). This cost is usually not included in the property's rent (unless if the property is advertised as "all bills inclusive") yet it should be taken into account, as it can vary between two very similar properties. Students are exempt from this charge while if you live alone (or all your other flatmates are students) you can claim 25% discount. You will have to apply to the City Council before you're granted an exception or discount.
 
 ### Insurance
 
@@ -203,20 +203,7 @@ Make sure the landlord has a [Landlord Registration Number](https://landlordregi
 A lot of rooms for rent have bills included, but some do not so consider this and plan accordingly with your budget. Currently, it is unlikely you will find anything under £500 all included within 2 miles of the city centre. Expect when moving here to pay £550-700/mo total for rent, council tax, and utilities. You will probably pay less if you live somewhere like further out of the city.
 
 If you are a student I highly recommend getting student housing your first year. It's expensive, it's not ideal, but it's so much easier than the stress and headache you have to deal with trying to find a place here. The timing is particularly bad because you have Fringe in August so everyone is renting out any bed or couch they have... then in September, you're competing with all the other new and returning students (there are four universities in Edinburgh).
-
-### UK bank account required
-
-It is very difficult to do anything without a UK bank account, including renting a place. Unfortunately, you need an address to get a UK bank account. Challenger banks such as [Monzo](https://www.monzo.com/) or [Starling](https://www.starlingbank.com/) may be easier to apply and get a bank account. However, a bricks and mortar bank may also be a better option. For example, HSBC offer a [bank account for International Student](https://www.hsbc.co.uk/current-accounts/products/international-student/).
-
-#### Other Bricks and Mortar banks operating in Edinburgh
-
-* [Bank of Scotland](https://www.bankofscotland.co.uk)
-* [Royal Bank of Scotland](https://www.rbs.co.uk)/ [NatWest](https://www.natwest.com/)
-* [Virgin Money](https://uk.virginmoney.com/), formerly Clydesdale Bank
-* [TSB](http://www.tsb.co.uk/)
-* [Santander](https://www.santander.co.uk/)
   
-
 If you don't like the place you're at, you can give 28 days notice. There are no more 6 month lease requirements, that's not even an option with new tenant laws.
 
 This city currently has a BRUTAL housing market. Godspeed to any of you trying to move here right now.

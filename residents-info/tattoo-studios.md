@@ -1,6 +1,6 @@
 # Tattoo Studios of Edinburgh
 
-Below are listed a number of tattoo studios previously mentioned on the [/r/edinburgh](https://www.reddit.com/r/edinburgh/) subreddit. This is not an exhaustive list of Studios in Edinburgh. 
+Below are listed a number of tattoo studios previously mentioned on the [/r/edinburgh](https://www.reddit.com/r/edinburgh/) subreddit. This is not an exhaustive list of Studios in Edinburgh.
 Do not take any listed studio as an endorsement of their work or capabilities.
 It is suggested you review this list of studios and find one you like, then speak to the studio and the artist about your specific requirements.
 
@@ -9,6 +9,7 @@ It is suggested you review this list of studios and find one you like, then spea
 * [Absolute Body Art Studio](https://absolutebodyart.studio/) - Blair Street, Edinburgh EH1 1QR
 * [Studio XIII Gallery](https://studioxiii.tattoo/) - Jeffrey Street, Edinburgh EH1 1DR
 * [Tribal Body Art](https://www.tribalbodyart.co.uk/)  - Canongate, Edinburgh EH8 8AA
+* [Sanatorium Tattoo](https://www.sanatorium.tattoo/) - 8 Drummond, Street, Edinburgh, EH8 9TU
 
 ## Gorgie/ Fountainbridge/ Haymarket
 
@@ -24,6 +25,7 @@ It is suggested you review this list of studios and find one you like, then spea
 * [Relatively Painless Tattoo](https://www.relativelypainlesstattoo.com/) - Portland Place, Edinburgh EH6 6LA
 * [Culture Tattoo](https://www.instagram.com/culture.tattoostudio) - Queen Charlotte Street, Edinburgh, EH6 6AT
 * [Explodink Tattoo](https://www.instagram.com/explodinktattoostudio) - Easter Rd, Edinburgh EH6 8LQ
+* [Bold & Gold](https://www.boldandgoldstudios.com/) Easter Road, Edinburgh, EH7 5PH
 
 ## Portobello
 
@@ -34,3 +36,11 @@ It is suggested you review this list of studios and find one you like, then spea
 
 * [Take Note Tattoo](https://takenotetattoo.bigcartel.com/) - Cumberland Street, Edinburgh, EH3 6RA
 * [Sarah Louise Alexander](https://sarahlouisealexander.com/) - Best Friends Club, Queensferry Street, Edinburgh, EH2 4QS
+
+## North Edinburgh
+
+* [Pinecone Studios](https://pineconestudio.setmore.com/) - 154 Ferry Road, Edinburgh EH6 4NX
+
+## Outside Edinburgh
+
+* [Brass Buddha](https://www.facebook.com/brassbuddha/) - 101 High Street, Tranent, United Kingdom, EH33 1LW

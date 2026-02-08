@@ -25,6 +25,7 @@ I am not going to give any recommendations — in Edinburgh there are simply too
 * [Cadiz](https://www.cadizedinburgh.co.uk/) - 1st Floor, 77b George Street, Edinburgh EH2 3EE
 * [The Outsider](https://www.theoutsiderrestaurant.com/) - George IV Bridge EH1 1EE
 * [Wedgwood](https://www.wedgwoodtherestaurant.co.uk/) - 267 Canongate, Royal Mile, Edinburgh, Midlothian, EH8 8BQ, United Kingdom
+* [Dogstar](https://dogstarleith.com/) - 17 Portland Place, Edinburgh, EH6 6LA
 
 ## Steak
 

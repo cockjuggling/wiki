@@ -8,7 +8,7 @@ There are a few methods of gaining internet access in Edinburgh:
 
 2. Via [Virgin Media](http://www.virginmedia.com) who don't cover all the properties but offer cable connections over their own network. They have a variety of speed packages from 125Mbps to 1Gbps.
 3. [HyperOptic](https://www.hyperoptic.com/) operate their own fibre network within Edinburgh, but their coverage is very limited. They do provide a Postcode checker for you to check if they operate in the area you are moving into.
-4. [CityFibre](https://cityfibre.com/availability) also operate in Edinburgh, but again with a limited network - utilising their postcode checker will allow you to see if service can be obtained in your area. 
+4. [CityFibre](https://cityfibre.com/availability) also operate in Edinburgh, but again with a limited network - utilising their postcode checker will allow you to see if service can be obtained in your area.
 5. 5G internet service has vastly improved and can be an option if you are a light internet user and do not plan to stay long (ie. you can't commit to a 12 month contract). Below are a list of 5G operators to consider.
    1. [Three](https://www.three.co.uk/broadband/home-broadband)
    2. [EE](https://ee.co.uk/broadband/mobile-broadband)
