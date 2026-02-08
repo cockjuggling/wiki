@@ -117,7 +117,7 @@ This list is shamelessly lifted from a thread that [CaptainCymru](/u/CaptainCymr
 * [Colonnades](https://www.thesignetlibrary.co.uk/colonnades/), Royal Mile
 * [Riddles Court](https://www.shbt.org.uk/our-buildings/riddles-court/) - [Event Guide](https://www.shbt.org.uk/wp-content/uploads/2021/10/Parties-and-Private-Dining.pdf), Royal Mile
 * [Leith Arches](https://leitharches.com/wedding-venue/), Leith
-* ~~The Old Dr Bells Baths, Leith~~ - Closed 31/12/25 
+* ~~The Old Dr Bells Baths, Leith~~ - Closed 31/12/25
 * [Edinburgh Zoo](https://www.edinburghzoo.org.uk/events-experiences/venue-hire/weddings), Corstorphine
 * [Dynamic Earth](https://dynamicearth.org.uk/event-hire/weddings/), Canongate
 * [Greyfriars Charteris Centre](http://www.charteriscentre.com/), Pleasance

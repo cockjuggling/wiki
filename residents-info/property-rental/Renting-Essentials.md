@@ -1,4 +1,4 @@
-## Essentials
+# Essentials
 
 ## How to search properties
 
@@ -44,8 +44,6 @@ Edinburgh has great bus coverage and a recently opened, yet quite useless, tram 
 
 * Official Bus Tracker and eTickets - [iOS](https://apps.apple.com/gb/app/bus-tram/id6468092588) or [Android](https://play.google.com/store/apps/details?id=travel.ticketless.app.lothian&pcampaignid=web_share)
 
-
-
 ### Private Car Ownership
 
 Using a car is not popular and not recommended. The traffic is not that much but parking is horrible. Also, owning a car in the UK will cost A LOT in insurance (we're talking £1000/year just for that) and the car's value depreciates very fast. Generally a very bad option for newcomers, unless if your workplace is in the middle of nowhere. You also have to drive on the left.  
@@ -84,7 +82,7 @@ So, you landed at day T, you had a good sleep, wake up and hit the viewings. If 
 
  If you did not find anything on day T+1 then you can begin to worry and relax at the same time. Worry because you're quickly running out of time, relax because there is nothing you can do but repeat the searches online and find more properties, arrange viewings ASAP etc. It would also help to become slightly less picky about what you are looking for at this stage, remember, you can move our in just 6 months.  
 
-### If you can't find something within 7 working days 
+### If you can't find something within 7 working days
 
 Book another 5 working days in the hotel you're are staying or elsewhere, it is nearly impossible to secure a let in less than 5 working days so you will probably need the extra days.  
 
@@ -106,7 +104,7 @@ Furnished properties outnumber unfurnished properties 10-1. Unfurnished usually 
 
 ### Which floor?
 
-Basement flats exist in Edinburgh, you can survive in one for six months, especially if you are on a budget. (security precautions of groud-floor flats apply). If you're in a good area, basement flats are fine, just watch out for damp. You might want to invest in a dehumidifier if you're staying for a while.  
+Basement flats exist in Edinburgh, you can survive in one for six months, especially if you are on a budget. (security precautions of ground-floor flats apply). If you're in a good area, basement flats are fine, just watch out for damp. You might want to invest in a dehumidifier if you're staying for a while.  
 
 If you get a ground floor flat (this is at the street level), make sure it is double-glazed. This deters opportunistic burglars who are after your laptop. Also, keep your curtains closed (make sure the flat has curtains) and be prepared to endure some noise if in a busy area.  
 

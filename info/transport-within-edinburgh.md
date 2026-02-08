@@ -11,7 +11,7 @@ Edinburgh has excellent transport links within the city and further afield. In f
 
 ## Taxis
 
-Edinburgh is served by two black taxi cab companies and several private hire car companies. Uber X also operated in Edinburgh. 
+Edinburgh is served by two black taxi cab companies and several private hire car companies. Uber X also operated in Edinburgh.
 
 * [City Cabs](https://www.citycabs.co.uk/) - Black Cab - [0131 228 1211](tel:+441312281211) - [Book a Taxi](https://www.citycabs.co.uk/book/).
 * [Central Taxis](https://www.taxis-edinburgh.co.uk/) - Edinburgh's other Black Cab company - [0131 229 2468](tel:+441312292468) - [book online](https://www.taxis-edinburgh.co.uk/bookings/).

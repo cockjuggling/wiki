@@ -21,7 +21,7 @@ This may be less relevant in the winter months and you might not need it, but it
 
 * [Boots](https://www.boots.com/StoreLookupView).
 * [Superdrug](https://www.superdrug.com/store-finder).
-* Local pharmacy - [Google is your friend](https://maps.google.co.uk/). 
+* Local pharmacy - [Google is your friend](https://maps.google.co.uk/).
 * Possibly in [Tesco Express](https://www.tesco.com/store-locator/)/ [Sainsbury's Local](https://stores.sainsburys.co.uk/) (Size of store dependent).
   
 ### Sunglasses
