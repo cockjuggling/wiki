@@ -91,8 +91,11 @@ It is worth noting that shops in this section span from South Bridge (Marie Curi
 
 Shops mentioned here are standalone and don't have the high concentration of shops such as in other areas of Edinburgh. They are however worth mentioning.
 
-| Charity                                                      | Stock     | Address                                                      |
-| ------------------------------------------------------------ | --------- | ------------------------------------------------------------ |
-| [St Columba's Furniture Warehouse](https://stcolumbashospice.org.uk/shop/furniture-centre) | Furniture | Unit 4A Bonnington Industrial Estate, Elizafield, Newhaven Road |
-| [Lothian Cat Rescue](https://lothiancatrescue.org/shop/lcr-shop/) | General   | 138-140 Easter Road                                          |
-| [St Columba's Book Shop](http://www.stcolumbashospice.org.uk/) | Book Shop | 14-15 Brandon Terrace                                        |
+| Charity                                                      | Stock              | Address                                                      |
+| ------------------------------------------------------------ | ------------------ | ------------------------------------------------------------ |
+| [St Columba's Furniture Warehouse](https://stcolumbashospice.org.uk/shop/furniture-centre) | Furniture          | Unit 4A Bonnington Industrial Estate, Elizafield, Newhaven Road |
+| [Lothian Cat Rescue](https://lothiancatrescue.org/shop/lcr-shop/) | General            | 138-140 Easter Road                                          |
+| [St Columba's Book Shop](http://www.stcolumbashospice.org.uk/) | Book Shop          | 14-15 Brandon Terrace                                        |
+| [Marc](https://www.midarc-removals.co.uk/charity-shop)       | Furniture/ General | 6 North Wynd, Dalkeith EH22 1JE                              |
+| [Edinburgh Furniture Initiative](https://www.foursquare.org.uk/) / Four Square | Furniture          | 454 Gorgie Rd                                                |
+| [The Salvation Army Donation Centre](https://salvationarmytrading.org.uk/location/edinburgh-piershill/) | Furniture          | 40 Piershill Place                                           |
