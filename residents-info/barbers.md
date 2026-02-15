@@ -9,7 +9,7 @@ Edinburgh has many barbers, but there are some that are mentioned when this ques
 * [Round our Way](https://roundourwayedinburgh.gettimely.com/) - Customs Wharf, Leith
 * [Veen](https://veenbarbers.co.uk/) - Elm Row
 * [Outliers Barbers](https://outliersbarberco.co.uk/) - Haddington Place
-* [The Big Little Hair Hosue](https://theblhh.co.uk/) - East Norton Place
+* [The Best Little Hair House](https://theblhh.co.uk/) - East Norton Place
 * [Hoodlums Barbers](https://bookings.gettimely.com/hoodlumsbarbershop/) - Great Junction Street, Leith
 * [Shortcut to the Shore](https://www.shortcuttotheshore.com/) - Henderson Street, Leith
 * [Valykrie](https://www.phorest.com/salon/campbellyounghairdesign) - Easter Rd
