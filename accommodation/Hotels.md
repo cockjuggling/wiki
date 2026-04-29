@@ -26,3 +26,4 @@ Edinburgh has many chain hotels which can be contacted directly for pricing on y
 * [Holiday Inn Express](https://www.ihg.com/holidayinnexpress/hotels/gb/en/edinburgh/edbrm/hoteldetail).
 * [Hotel du Vin](https://www.hotelduvin.com/locations/edinburgh/).
 * [Holyrood Aparthotel](https://www.holyroodaparthotel.com/).
+* [Virgin Hotels](https://virginhotels.com/edinburgh/).

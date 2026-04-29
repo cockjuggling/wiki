@@ -16,6 +16,16 @@ The city has a number of locations where you can sit with your laptop and work. 
 * [Foxglove](https://foxgloveoffices.com/coworking-space/) - 4 Links Place - £12 per day.
 * [Spaces](https://www.spacesworks.com/edinburgh/lochrin-square/) - Lochrin Square - no day passes - monthly commitment required.
 
+## Laptop friendly study spaces
+
+* [Books and Cup](https://books-n-cup-cafe.menu-world.com/) (Stockbridge) - 23 Home St
+* [Black Medicine Company](https://www.blackmedicine.co.uk/) - South Bridge/ Nicholson Street
+* [Lovecrumbs West Port](https://www.lovecrumbs.co.uk/) (near ECA) - 155 West Port
+* [Lady and the Bear](https://ladyandthebear.co.uk/) - 1 Hope Park Terrace
+* [August_21](https://www.august21.co.uk/) - 89 Causewayside
+* [Kiliminjaro](https://www.instagram.com/explore/locations/291597/kilimanjaro-coffee/?hl=en) - 104 Nicholson Street
+* [Origin Coffee](https://www.origincoffee.co.uk/) - South College Street
+
 ## Useful Apps
 
 * [Swurf](https://swurf.co/) has a number of pods in some locations in Edinburgh. At the last check - 1 in the city and 2 at the airport.
