@@ -32,11 +32,13 @@ I am not going to give any recommendations — in Edinburgh there are simply too
 * [Kyloe](https://kyloerestaurant.com/) - Rutland Street . Edinburgh.
 * [Chop House](https://chophousesteak.co.uk) - Market Street, Edinburgh.
 * [Le Petit Beef Bar](https://beefbar.com/le-petit-beefbar-edinburgh/) - George Street, Edinburgh.
+* [The Spanish Butcher](https://spanishbutcher.com/edinburgh) - North Castle Street.
 
 ## Thai
 
 * [Ting Thai Caravan Club](https://tingthai.co.uk/) - Teviot Place.
 * [Nok's Kitchen](https://nokskitchen.co.uk/) - Stockbridge.
+* [Dusit](https://www.dusit.co.uk/) - Thistle Street.
 
 ## Japanese
 
@@ -84,18 +86,19 @@ I am not going to give any recommendations — in Edinburgh there are simply too
 ## Pizza
 
 * [Civerinos Slice](https://www.civerinos.com/locations/forrest-road/)- Forrest Road - Pizza by the slice, or pie. They also have some killer parmesan doughballs.
-* [Civerinos](https://www.civerinos.com/) - Hunter Square - Pizza restraunt by the pie.
-* [Dough](https://dough-pizza.co.uk/) - Takeaway only - South Clerk St or Rose Street -  Great, if you can get it ordered.
+* [Civerinos](https://www.civerinos.com/) - Hunter Square.
+* [Dough](https://dough-pizza.co.uk/) - Takeaway only - South Clerk St or Rose Street.
 * [Pizza Posto](https://pizzaposto.co.uk/) - Nicholson St - Traditional Neapolitan style pizza.
 * [Pizzeria 1926](https://pizzeria1926.co.uk/) - Dalry Road - not within the city centre, but worthy of jumping a Number 44 bus to go visit and enjoy pizza.
 * [Razzo](https://razzopizza.co.uk/) - Great Junction Street - This is on my list to visit - so far I've heard it's great.
 * [Matto Pizza](https://mattopizza.co.uk/) - Multiple locations - This is a brand that has had some recent expansion due to local success. Great pizza.
 * [Pizza Geeks](https://www.pizzageeks.co.uk/) - Multiple locations - This place serves great pizza (in my opinion).
 * [San Ciro](hhttps://www.sanciros.com/) - Leith Walk - Former owner of Pizzeria 1926.
+* [Pala Pizza](https://www.palapizza.co.uk/)
 
 ## Burgers
 
-* [Bread Meats Bread](https://breadmeatsbread.com/) - Multiple Locations - Some spectacular burgers, if a bit peppery for my own liking.
+* [Bread Meats Bread](https://breadmeatsbread.com/) - Multiple Locations.
 * [El Pegro Negro](https://www.el-perro-negro.com/#location) - A concession is within the St James Quarter food hall on the top floor.
 
 ## Vegetarian / Vegan
@@ -129,3 +132,29 @@ This list is a culmination of responses to a [recent discussion](https://redd.it
 * [Milton Fry](https://miltonfry.com/) - Causewayside.
 * [L’Alba D’Oro](https://www.lalbadoro.com/) - Henderson Row.
 * [Cafe Picante](https://cafepiccante.co.uk/) - Broughton Street - if you have a late night requirement for trying deep fried Mars Bars.
+
+## Roast Dinner
+
+* [Monteiths](https://monteithsrestaurant.co.uk/) -  Royal Mile - bookings only
+* [The Spylaw](https://www.thespylaw.com/) - [Menu](https://static1.squarespace.com/static/5c8cf782523958c329cd465f/t/69c8ffecf7e5b74c3acce8dd/1774780396218/Spylaw+Sunday+MARCH+2026.pdf)- Colinton
+* [The Ox](https://www.theoxedinburgh.com/) - London Street
+* [The Broughton](https://www.thebroughtonbar.com/) - [Menu](https://www.thebroughtonbar.com/documents/view.php?documentID=9)- Broughton Street
+* [Spanish Butcher](https://spanishbutcher.com/edinburgh) - [Menu](https://static1.squarespace.com/static/65834c3e0f826b1caf0b7e05/t/69551d4b809a9f25efb4f0b4/1767185740400/3.+SB+Sunday+Lunch+Jan+2026.pdf) - North Castle Street
+* [The King’s Wark](https://www.thekingswarkpub.com/contact/) - The Shore
+* [The Salisbury Arms](https://www.thesalisburyarmsedinburgh.co.uk/sundaymenu?allergens=&excludeAllergenDishes=false#/) - Dalkeith Road
+* [Captain Darling](https://www.thecaptaindarling.com/menu) - Stockbridge
+* [Queens Arms](https://queensarmsedinburgh.com/) - Frederick Street
+* [The Sheraton Hotel](https://www.onesquareedinburgh.co.uk/) - Lothian Road
+* [Sheep’s Heid](https://www.thesheepheidedinburgh.co.uk/) - Duddingston
+* [Antiquary Bar](https://theantiquarybar.co.uk/) - Stockbridge
+* [The Roseleaf](https://www.roseleaf.co.uk/Default.htm) - Leith
+* [Ardfern](https://ardfern.uk/) - Bonnington Road
+* [Hawksmoor](https://thehawksmoor.com/food/sunday-roasts/) - West Register Street
+
+## Breakfast
+
+* [Snax Cafe](https://www.snaxcafe.com/) - Buccleuch St or West Register Street
+* [Loudons](https://loudons.co.uk/) - Fountainbridge or Sibbalds Walk
+* [Stack and still](https://stackandstill.co.uk/) - Hanover Street.
+* [La Viola cafe](https://www.laviolacafe.com/) - Earl Grey Street.
+* [Holyrood 9a](https://www.theholyrood.co.uk/#home/menus) - Holyrood Road.
