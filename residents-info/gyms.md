@@ -135,11 +135,13 @@ Old Dalkeith Road, Danderhall, Dalkeith, EH22 1FD
 ## JD Gyms
 
 ### Edinburgh West
+
 [Website](https://www.jdgyms.co.uk/gym-west/) - Westside Plaza Shopping Centre, Wester Hailes Road, EH14 2SW
 
 ## Hotel based gyms (with public access)
 
 ### Caledonian Hotel
+
 [Website](https://www.hilton.com/en/hotels/ednchqq-the-caledonian/spa/) - Princes St, EH1 2AB
 
 ### Sheraton Grand

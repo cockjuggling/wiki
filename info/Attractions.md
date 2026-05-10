@@ -1,6 +1,6 @@
 # Attractions to visit in Edinburgh
 
-The Royal Mile of Edinburgh is a wonder of many museums and buildings. Below are a list of a number of attractions to visit in on your trip to Edinburgh. 
+The Royal Mile of Edinburgh is a wonder of many museums and buildings. Below are a list of a number of attractions to visit in on your trip to Edinburgh.
 
 This wiki is not a recommendation site and should only be used as a reference point for each of these venues. If you are looking for reviews for any of these venues then can I suggest you check [TripAdvisor](https://www.tripadvisor.com/), or Google reviews.
 
@@ -22,7 +22,7 @@ This wiki is not a recommendation site and should only be used as a reference po
 
 ## Other Notable Visitor Attractions
 
-* [National Museum of Scotland](https://www.nms.ac.uk/national-museum-of-scotland) - Free  -  [Donations](https://www.nms.ac.uk/support-us/donate) are accepted at the recepticals near the entrances and exits.
+* [National Museum of Scotland](https://www.nms.ac.uk/national-museum-of-scotland) - Free  -  [Donations](https://www.nms.ac.uk/support-us/donate) are accepted at the receptacles near the entrances and exits.
 * [Greyfriar's Bobby](https://en.wikipedia.org/wiki/Greyfriars_Bobby) - Free  - its a 5 minute walk from the Royal Mile to the statue of Bobby.
 * [Royal Yacht Britannia](https://www.royalyachtbritannia.co.uk/) - [Tickets](https://tickets.royalyachtbritannia.co.uk/event-tickets/20462?catID=20701&) - [Take the Majestic Bus Tour](https://edinburghtour.com/regal-tour/i) for hop-on-hop-off transit to this visitor attraction. Alternatively the Tram stops nearby to Ocean Terminal with a short walk to this attraction.
 * [Scottish National Gallery of Modern Art](https://www.nationalgalleries.org/visit/scottish-national-gallery-modern-art) - Free, but some temporary galleries may be ticketed - Open daily 10am -> 5pm.
