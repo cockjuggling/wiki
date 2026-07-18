@@ -1,7 +1,7 @@
 # Guest Houses and B&Bs
 
 Edinburgh is full of Bed and Breakfast accommodation.
-So much, that I cannot provide a simple list. 
+So much, that I cannot provide a simple list.
 However, I can suggest aggregator sites which will be better help to search and find a location that meets your star rating and budget.
 
 ## Bed and Breakfast accommodation
@@ -11,7 +11,7 @@ However, I can suggest aggregator sites which will be better help to search and 
 
 ## Short term property rental
 
-Short term property rental is a hot topic in Edinburgh. As with other destination cities properties are being gobbled up by developers, renovated, then rented out on these platforms. Gentrifiying areas of the city and lowering the housing stock for locals. Redditors of Edinburgh take a dim view to this type of accommodation. However, it is a popular accommodation  type so it is being discussed here.
+Short term property rental is a hot topic in Edinburgh. As with other destination cities properties are being gobbled up by developers, renovated, then rented out on these platforms. Gentrifying areas of the city and lowering the housing stock for locals. Redditors of Edinburgh take a dim view to this type of accommodation. However, it is a popular accommodation  type so it is being discussed here.
 
 * Edinburgh also has a large number of properties for rental via [AirBNB](https://www.airbnb.co.uk/s/Edinburgh/).
 

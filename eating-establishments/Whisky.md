@@ -5,7 +5,7 @@ Although Scotland is famous for it's Whisky there are a number of distilleries w
 ## Tours
 
 * Try The [Scottish Malt Whisky Experience](https://www.scotchwhiskyexperience.co.uk/) for an interactive tour of whisky and it's origins.
-* The [Johnny Walker Experience](https://www.johnniewalker.com/en/visit-us-princes-street/book-whisky-tasting) provides for a more Hollywood interpretation of whisky and it's origins. This is a Diageo property which owns a number of whisky distilleries around Scolland inlcuding. Further information on their holdings can be found  on the [Scotch Whisky Whiskypedia](https://scotchwhisky.com/whiskypedia/2624/diageo/).
+* The [Johnny Walker Experience](https://www.johnniewalker.com/en/visit-us-princes-street/book-whisky-tasting) provides for a more Hollywood interpretation of whisky and it's origins. This is a Diageo property which owns a number of whisky distilleries around Scolland including. Further information on their holdings can be found  on the [Scotch Whisky Whiskypedia](https://scotchwhisky.com/whiskypedia/2624/diageo/).
 
 ## Distilleries
 

@@ -51,7 +51,7 @@ Thanks to [/u/EdiExplorer](https://www.reddit.com/user/EdiExplorer/) for the com
 
 ## Pub Quizzes
 
-Edinburgh has a number of Pub Quiz hsts that operate regularly at a number of drinking establishments around the city. Use these sites to find a quiz near to you.
+Edinburgh has a number of Pub Quiz hosts that operate regularly at a number of drinking establishments around the city. Use these sites to find a quiz near to you.
 
 * Dr Paul - [Find a Quiz](http://dpquizlive.co.uk/find-a-pub-quiz/).
 * Goose Quizzes - [Quiz Map](https://www.goosesquizzes.com/map).

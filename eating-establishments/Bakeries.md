@@ -1,6 +1,6 @@
 # Bakeries
 
-Edinburgh has many bakeries to choose from throughout the city. Although Greggs is prevelant throughout the city we are blessed with several superb alternatives. This is not an exhaustive list and may be missing your favourite one - if so, [let us know](mailto:reddit@cockjuggling.uk?subject=wiki) and we'll update our wiki.
+Edinburgh has many bakeries to choose from throughout the city. Although Greggs is prevalent throughout the city we are blessed with several superb alternatives. This is not an exhaustive list and may be missing your favourite one - if so, [let us know](mailto:reddit@cockjuggling.uk?subject=wiki) and we'll update our wiki.
 
 * [Lannan Bakery](https://www.lannanbakery.com/) - Hamilton Place.
 * [101 Bakery](https://www.101bakery.com/) - 101 Newington Road.

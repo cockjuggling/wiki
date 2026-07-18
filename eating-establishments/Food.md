@@ -12,7 +12,7 @@ I am not going to give any recommendations — in Edinburgh there are simply too
 
 * [Scran and Scallie](https://scranandscallie.com/) - Comely Bank Rd - "Rustic Gastro Pub" — owned by Tim Kitchin.  However, some of the [working practices of Tim Kitchin might detract](https://www.theguardian.com/uk-news/2021/jul/02/tom-kitchin-restaurant-staff-suspended-bullying-allegations-toxic-workplace-social-media-claims) from his culinary achievements.
 * [Six by Nico](https://www.sixbynico.co.uk/edinburgh/) - Hanover Street - 6 course tasting menu that changes often to other regions. This is very much a marmite restaurants with the reddit community.
-* [The Kitchin](https://thekitchin.com/) - Commercial Quay, Leith. Again, another Tim Kitchen resteraunt.
+* [The Kitchin](https://thekitchin.com/) - Commercial Quay, Leith. Again, another Tim Kitchen restaurant.
 * [The Purslane](http://www.purslanerestaurant.co.uk/) - St Stephen St, Edinburgh.
 * [The Witchery](https://www.thewitchery.com/dine/) - Royal Mile, Edinburgh.
 * [Timberyard](https://www.timberyard.co/) - Lady Lawson St.

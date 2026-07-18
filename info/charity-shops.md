@@ -21,7 +21,7 @@ Edinburgh has many charity shops, but there are a few areas of the city where th
 ## Morningside
 
 | Charity                                                      | Stock   | Address                |
-| ------------------------------------------------------------ | ------- | ---------------------- |
+| ------------------------------------------------------------ | -------------------- | ---------------------- |
 | [Marie Curie](https://www.mariecurie.org.uk/get-involved/charity-shops) | General | 340 Morningside Road   |
 | [British Red Cross](https://www.redcross.org.uk/shop/find-a-charity-shop/edinburgh-morningside) | General | 95 Morningside Road    |
 | [Cancer Research UK](https://www.cancerresearchuk.org/get-involved/find-a-shop/edinburgh-morningside) | General | 87 Morningside Road    |
@@ -41,7 +41,7 @@ Edinburgh has many charity shops, but there are a few areas of the city where th
 It is worth noting that shops in this section span from South Bridge (Marie Curie) to Summerhall (Bethany Christian Trust).
 
 | Charity                                                      | Stock           | Address             |
-| ------------------------------------------------------------ | --------------- | ------------------- |
+| ------------------------------------------------------------ | -------------------- | ------------------- |
 | [Chest Heart & Stroke Scotland](http://www.chss.org.uk/)     | General         | 76 Newington Road   |
 | [The Salvation Army](https://www.salvationarmy.org.uk/)      | General         | 65 Newington Road   |
 | [Bethany Christian Trust](http://www.bethanychristiantrust.com/) | Household items | 1-3 Summerhall Place |
@@ -61,7 +61,7 @@ It is worth noting that shops in this section span from South Bridge (Marie Curi
 ## Leith
 
 | Charity                                                      | Stock     | Address                     |
-| ------------------------------------------------------------ | --------- | --------------------------- |
+| ------------------------------------------------------------ | -------------------- | --------------------------- |
 | [Bethany Christian Trust](http://www.bethanychristiantrust.com/) | General   | 32b Haddington Place        |
 | [Bethany Christian Trust](http://www.bethanychristiantrust.com/) | General   | 17 Duke Street              |
 | [British Heart Foundation - Clearance Shop](http://www.bhf.org.uk/what-we-do/find-bhf-near-you/leith-bhf-shop) | Clearance | 23-29 Great Junction Street |
@@ -79,7 +79,7 @@ It is worth noting that shops in this section span from South Bridge (Marie Curi
 ## Portobello
 
 | Charity                                                      | Stock   | Address                          |
-| ------------------------------------------------------------ | ------- | -------------------------------- |
+| ------------------------------------------------------------ | -------------------- | -------------------------------- |
 | Chest Heart & Stroke Scotland                                | General | 113 Portobello High Street       |
 | [Marie Curie](https://www.mariecurie.org.uk/get-involved/charity-shops) | General | 162 Portobello High Street       |
 | [British Heart Foundation](http://www.bhf.org.uk/what-we-do/find-bhf-near-you/portobello-bhf-shop) | General | 202 - 204 Portobello High Street |
@@ -92,7 +92,7 @@ It is worth noting that shops in this section span from South Bridge (Marie Curi
 Shops mentioned here are standalone and don't have the high concentration of shops such as in other areas of Edinburgh. They are however worth mentioning.
 
 | Charity                                                      | Stock              | Address                                                      |
-| ------------------------------------------------------------ | ------------------ | ------------------------------------------------------------ |
+| ------------------------------------------------------------ | -------------------- | ------------------------------------------------------------ |
 | [St Columba's Furniture Warehouse](https://stcolumbashospice.org.uk/shop/furniture-centre) | Furniture          | Unit 4A Bonnington Industrial Estate, Elizafield, Newhaven Road |
 | [Lothian Cat Rescue](https://lothiancatrescue.org/shop/lcr-shop/) | General            | 138-140 Easter Road                                          |
 | [St Columba's Book Shop](http://www.stcolumbashospice.org.uk/) | Book Shop          | 14-15 Brandon Terrace                                        |

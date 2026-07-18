@@ -61,7 +61,7 @@ Further information, tickets and guidance can be [found on their website](https:
 
 ### Edinburgh Mela
 
-Further information can be [found on their Facebook page ](https://www.facebook.com/TheEdMela/).
+Further information can be [found on their Facebook page](https://www.facebook.com/TheEdMela/).
 
 ### Edinburgh Art Festival
 
@@ -85,6 +85,6 @@ Further information is available on their [website](https://www.edhorrorfest.co.
 
 ### Edinburgh's Hogmanay
 
-Further informatin is available on their [website](https://www.edinburghfestivalcity.com/festivals/edinburghs-hogmanay) - 30 December 2025 - 1 January 2026.
+Further information is available on their [website](https://www.edinburghfestivalcity.com/festivals/edinburghs-hogmanay) - 30 December 2025 - 1 January 2026.
 
 A [separate page](https://www.reddit.com/r/Edinburgh/wiki/info/christmas2025) has been created listing off the festivities around Christmas in Edinburgh 2026.

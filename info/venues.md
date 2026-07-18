@@ -7,7 +7,7 @@ Edinburgh has a number of theatres and cinemas to meet your entertainment needs.
 * [The Edinburgh Playhouse](https://www.playhousetheatre.com/) - Scotland's larges theatre with 3509 seats
   * Tickets are via [ATG TIcket](https://www.atgticket.com/venues/edinburgh-playhouse/)
 * [Festival Theatre](https://www.capitaltheatres.com/our-venues/festival-theatre/)
-* ~~[King's Theatre](https://www.capitaltheatres.com/our-venues/kings-theatre/)~~ - under rennovation
+* ~~[King's Theatre](https://www.capitaltheatres.com/our-venues/kings-theatre/)~~ - under renovation
 * [Studio Theatre](https://www.capitaltheatres.com/our-venues/studio-theatre/)
 * [Traverse Theatre](https://www.traverse.co.uk/)
 * [Royal Lyceum Theatre](https://lyceum.org.uk/)
@@ -28,7 +28,7 @@ Edinburgh has a number of theatres and cinemas to meet your entertainment needs.
 * Odeon
   * [Lothian Road](https://www.odeon.co.uk/cinemas/edinburgh-lothian-road/)
   * [Fort Kinnaird](https://www.odeon.co.uk/cinemas/edinburgh-fort-kinnaird/)
-  * [Edinburgh West](https://www.odeon.co.uk/cinemas/edinburgh-west/) - this site operates under Luxe brand, where reclining chairs are utulised.
+  * [Edinburgh West](https://www.odeon.co.uk/cinemas/edinburgh-west/) - this site operates under Luxe brand, where reclining chairs are utilised.
 
 * Vue operates two cinema sites in Edinburgh. Both are Lux with new reclining seats.
   * [Omni Centre](https://www.myvue.com/cinema/edinburgh-omni-centre/whats-on)
@@ -40,9 +40,9 @@ Edinburgh has a number of theatres and cinemas to meet your entertainment needs.
 ### Independent Cinemas
 
 * [The Edinburgh Filmhouse](https://www.filmhouse.org.uk/home/)
-* [Cameo Picturehouse](https://www.picturehouses.com/cinema/the-cameo)
+* [Cameo Picture House](https://www.picturehouses.com/cinema/the-cameo)
 * [Dominion Cinema](https://www.dominioncinema.co.uk)
-* [The Scotsman Picturehouse](https://www.scotsmanpicturehouse.co.uk/home)
+* [The Scotsman Picture House](https://www.scotsmanpicturehouse.co.uk/home)
 * [Institut français d’Écosse](https://www.ifecosse.org.uk/)
   * Screenings on Wednesdays
   * Free for members

@@ -1,6 +1,6 @@
 # Edinburgh at Christmas
 
-Edinburgh has a number of Christmas events in the city and beyond. Below is a list of a number of events occuring over this period. This is not an exhaustive list and may be subject to change.
+Edinburgh has a number of Christmas events in the city and beyond. Below is a list of a number of events occurring over this period. This is not an exhaustive list and may be subject to change.
 
 ## Christmas Events
 
