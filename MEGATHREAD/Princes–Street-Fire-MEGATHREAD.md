@@ -30,7 +30,8 @@ A major fire broke out in the early hours of Thursday, 9 July 2026, in the forme
 ### Edinburgh Council
 
 - [Latest Updates](https://www.edinburgh.gov.uk/emergencies-safety-crime/latest-updates-princes-street)
-- [Traffic Diversions](https://www.edinburgh.gov.uk/roads-travel-parking/road-closures-diversions-transport/)
+- [Traffic Diversions](https://www.edinburgh.gov.uk/roads-travel-parking/road-closures-diversions-transport/) and links to other bus companies who may be affected (Ember, StageCoach etc)
+- [FAQ](https://www.edinburgh.gov.uk/emergencies-safety-crime/frequently-asked-questions/1?preview=c3938568d9a907052da393b6d2bd7a13)
 
 ---
 
