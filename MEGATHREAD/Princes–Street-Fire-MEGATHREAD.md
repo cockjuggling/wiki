@@ -1,4 +1,4 @@
-# Princes Street Fire at the old Debenhams Department Store
+# Princes Street fire at the old Debenhams Department Store
 
 ## Summary
 
