@@ -2,5 +2,10 @@
     "markdown.validate.enabled": true,
     "markdown.validate.ignoredLinks": [
         "/u/CaptainCymru"
+    ],
+    "cSpell.words": [
+        "Behaviour",
+        "editorialised",
+        "Grassmarket"
     ]
 }
