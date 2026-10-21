@@ -20,4 +20,4 @@ Short term property rental is a hot topic in Edinburgh. As with other destinatio
 * [VRBO](https://www.vrbo.com/en-gb/search?destination=Edinburgh).
 * [Coolstays](https://www.coolstays.com/search?place=14059).
 * [Cottages.com](https://www.cottages.com/) may provide accommodation, but this may be further out of town and more holiday cottages.
-* [Homestay.com](https://www.homestay.com/scotland/edinburgh) - Connects host families with students and independent travellers looking for accommodation.
+* [Homestay.com](https://www.homestay.com/scotland/edinburgh) - Connects host families with students and independent travelers looking for accommodation.
