@@ -1,7 +1,7 @@
 # Welcome to the /r/Edinburgh Wiki updated for 2026
 
 Contained within these wiki pages are a number of frequently asked questions as well as a number of useful links to information about our wonderful city of Edinburgh.
-Whether you are a resident, a prospective student or even an inquisitive traveler - we hope that you find the information useful and informative. This information is provided as-is with no 
+Whether you are a resident, a prospective student or even an inquisitive traveler - we hope that you find the information useful and informative. This information is provided as-is. We're just residents of this city, not a travel agent. Use this information for your own guidance and do your own research beyond these links to ensure any activity or accommodation fits your requirements and budget.
 
 ## Accommodation
 
