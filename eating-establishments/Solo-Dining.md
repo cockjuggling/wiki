@@ -1,6 +1,6 @@
 # Solo Dining
 
-This page is generated from the [discussion had on 28th Sept 2026](https://www.reddit.com/r/Edinburgh/s/O2C1UjzA64).. All recommendations are subjective to their respective contributors.
+This page is generated from the [discussion had on 28th Sept 2026](https://www.reddit.com/r/Edinburgh/s/O2C1UjzA64)◊◊. All recommendations are subjective to their respective contributors.
 
 - [Spanish Butcher](https://spanishbutcher.com/edinburgh) - North Castle St - [(Menus)](https://spanishbutcher.com/home#menus)
 - [Kome Izakaya](https://www.komeizakaya.co.uk/) - Brougham Street - [(Menu)](https://static1.squarespace.com/static/68bebf43b580546d2568c1d7/t/6a1ebf82527eca19bfba1ebf/1780400002349/Web+KOME+summer+2026.pdf)
