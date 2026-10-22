@@ -42,3 +42,4 @@ Whether you are a resident, a prospective student or even an inquisitive travele
 * [Charity Shops](info/charity-shops)
 * [Driving Schools](info/driving-schools)
 * [Launderettes](info/launderettes)
+* [Crisis Help](/residents-info/crisis-help)
