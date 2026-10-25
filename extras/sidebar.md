@@ -28,6 +28,6 @@
 * [/r/EdinburghPhotography](https://www.reddit.com/r/Edinburghphotography/)
 * [/r/EdinburghFringe](https://www.reddit.com/r/edinburghfringe/)
 * [/r/EdinburghCats](https://www.reddit.com/r/edinburghcats/)
-* [r/EdinburghMinute](https://www.reddit.com/r/EdinburghMinute/)
+* [/r/EdinburghMinute](https://www.reddit.com/r/EdinburghMinute/)
 * [/r/MoveToScotland](https://www.reddit.com/r/MoveToScotland/)
 * [/r/OutdoorScotland](https://www.reddit.com/r/OutdoorScotland/)
