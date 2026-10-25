@@ -4,7 +4,7 @@ It is very difficult to do anything without a UK bank account, including renting
 
 ## Bricks and Mortar banks operating in Edinburgh
 
-Phyiscal banks are becoming a rareity, but there are some still operating a shrunk down network of retail banking premises to visit and speak to a human.
+Physical banks are becoming a rarity, but there are some still operating a shrunk down network of retail banking premises to visit and speak to a human.
 
 * [Bank of Scotland](https://www.bankofscotland.co.uk)
 * [Royal Bank of Scotland](https://www.rbs.co.uk)/ [NatWest](https://www.natwest.com/)
