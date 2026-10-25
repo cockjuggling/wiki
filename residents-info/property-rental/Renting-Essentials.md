@@ -183,15 +183,10 @@ You'll need your own insurance to cover your possessions in the flat, called 'co
 13. Bear in mind when dealing with agents that you are not the customer. "I have money to spend and they are not interested" is commonly heard in this sub, but the agent's customer is the owner of the property. The agent doesn't make any money from you (at least they don't if they are following the law).  
 14. Every agent you speak to, tell them what you are looking for and ask them to call you if something becomes available. They may not, but it is worth asking. If you have a UK mobile number, you're more likely to get a call back. If not, give your number as it needs to be dialled in the UK. Don't leave it to the agent to work out what your country code is, because they won't bother.  
 15. If you find your flat before you have finished viewing all the other flats you have arranged, please call the agents and cancel the appointments. It is polite and it will help other people who are looking as well.  
-
 16. You need to show proof of income and/or a job offer. If you can't meet the income requirements, you need a guarantor. 90% of places will only take a UK-based guarantor, so if you're not from the UK you're fucked. Basically you need to go private and pay 6 months in full.
-
 17. Flats are in high demand some with 50+ applicants. Expect to go to a lot of showings and unless you're a great candidate on paper, expect to be denied.
-
 18. To actually be chosen to get a showing, respond with more than, "I'm interested in seeing the flat, can I schedule a viewing?" Tell them why you're a good candidate so they will pick you out of the 100+ enquiries they receive per flat. I told them about my job, savings, plans to live there for 3+ years, etc. Make yourself look good to get your foot in the door.
-
 19. Property viewings rarely occur on a weekend or any time after 4pm. Property agents have no reason to work at odd times because there are already 50 other people wanting the flat that can show up during business hours. Keep in mind you will not be able to flat hunt and work a 9-5 M-F. Also, they'll sometimes email you asking for a showing that afternoon. Take it if you can, because it could be gone by the following day.
-
 20. Rents for a 1 bedroom anywhere within 2 miles of the city centre may not be found for less than £700 PCM. Doesn't matter how much of a dump it is, it'll be £700 or more unless you want to live in Livingston or something.
 
 ### If you're renting a room
