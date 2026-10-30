@@ -46,3 +46,10 @@ Within Edinburgh there are a number of organisations geared to helping you durin
 ## Advice Centres
 
 - [Citizens Advice Scotland](https://www.cas.org.uk/)
+- At risk of homelessness -  call [0808 178 2323](tel://0808 178 2323)  or speak to [Streetwork](https://www.simonscotland.org/get-help/our-support-services/homelessness-in-edinburgh/)
+
+## Telecoms
+
+If you don't have access to a mobile phone, then there are schemes to help.
+
+- ~~Tesco Mobile - [Little Helps](https://www.tescomobile.com/why-tesco-mobile/little-helps/little-helps-schemes)~~ Scheme closed in Dec 2022. [Tesco have however partnered with the Trussell Trust](https://www.trussell.org.uk/support-us/become-a-partner/our-partners/tesco-mobile) from this date.
