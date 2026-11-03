@@ -1,6 +1,6 @@
 # Tattoo Studios of Edinburgh
 
-Below are listed a number of tattoo studios previously mentioned on the [/r/edinburgh](https://www.reddit.com/r/edinburgh/) subreddit. This is not an exhaustive list of Studios in Edinburgh.
+Below are listed a number of tattoo studios previously mentioned on the [/r/edinburgh](./r/edinburgh/) subreddit. This is not an exhaustive list of Studios in Edinburgh.
 Do not take any listed studio as an endorsement of their work or capabilities.
 It is suggested you review this list of studios and find one you like, then speak to the studio and the artist about your specific requirements.
 
@@ -34,12 +34,13 @@ It is suggested you review this list of studios and find one you like, then spea
 
 ## New Town
 
-* [Take Note Tattoo](https://takenotetattoo.bigcartel.com/) - Cumberland Street, Edinburgh, EH3 6RA
-* [Sarah Louise Alexander](https://sarahlouisealexander.com/) - Best Friends Club, Queensferry Street, Edinburgh, EH2 4QS
+* [Take Note Tattoo](https://takenotetattoo.bigcartel.com/) - Cumberland Street, Edinburgh, EH3 6RA.
+* [Sarah Louise Alexander](https://sarahlouisealexander.com/) - Best Friends Club, Queensferry Street, Edinburgh, EH2 4QS.
+* [Den of Iniquity](https://www.instagram.com/denofiniquitytattoo/) - 47 Broughton Street, EH13RJ.
 
 ## North Edinburgh
 
-* [Pinecone Studios](https://pineconestudio.setmore.com/) - 154 Ferry Road, Edinburgh EH6 4NX
+* [Pinecone Studios](https://pineconestudio.setmore.com/) - 154 Ferry Road, Edinburgh EH6 4NX.
 
 ## Outside Edinburgh
 
