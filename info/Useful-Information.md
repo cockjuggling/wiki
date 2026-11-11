@@ -37,7 +37,7 @@ There might not be many hours of daylight, and it might not be a day the sun com
 
 ## Other useful information
 
-## Luggage Storage
+### Luggage Storage
 
 You may visit Edinburgh and your onward travel plans don't start until the afternoon. In some cases your accommodation may not be able to assist with holding your luggage for the few hours you check out and when you leave the city. Fear not, for Edinburgh has some locations for `left luggage`.
 
@@ -58,20 +58,20 @@ You may be unfortunate to be separated from your items, misplace them on your tr
 
 * Police Scotland - [Lost Property](https://www.scotland.police.uk/contact-us/report-lost-property/).
   
-### Public Transport in Edinburgh
+## Public Transport in Edinburgh
 
 ### Bus & Tram
 
 * Lothian Buses -[Lost Property](https://support.lothianbuses.com/hc/en-gb/categories/11424115859997-Lost-Property).
 * Edinburgh Trams - [Lost Property](https://edinburghtrams.com/contact/lost-property).
 
-### Public Transport in Scotland
+## Public Transport in Scotland
 
-#### By Air
+### By Air
 
 * Edinburgh Airport - [Luggage Point](https://www.edinburghairport.com/help/lost-property-and-left-luggage)
 
-#### Train
+### Train
 
 Multiple tran operators utilise Edinburgh Waverley - it is advised to contact your train operator if you lose an item. Although Edinburgh Waverley is owned and operated by National Rail, they don't appear to have any Lost Property guidance. It may however be handled by the [Briitsh Transport Police](https://www.btp.police.uk/ro/report/lp/lost-or-found-property/) instead.
 

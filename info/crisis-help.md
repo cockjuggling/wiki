@@ -36,12 +36,12 @@ Within Edinburgh there are a number of organisations geared to helping you durin
 ## Other ways to get a meal
 
 - [Too Good to Go](https://www.toogoodtogo.com/en-gb)
-- [Porty Community Fridge](https://actionporty.com/projects/community-fridge/)
+- [Porty Community Fridge](https://actionporty.com/projects/community-fridge/) - [Facebook Group](https://www.facebook.com/groups/portycommunityfridge/?locale=en_GB)
   - "Our main aim is to support the local environment by reducing food waste while also helping people in our community who may be experiencing food insecurity."
   - [Contact by Email](mailto://portyfridge@gmail.com)
 - [Heart of Newhaven](https://www.heartofnewhaven.co.uk/regular-activities)
   - **Monday 2:30noon - 2pm: Community Lunch (£1)**
-    "Free lunch for anyone in the community. No need to book, but please be punctual, and please [contact us](https://www.heartofnewhaven.co.uk/contact-us) if you have allergies or other requirements."
+    "Free lunch for anyone in the community. No need to book, but please be punctual, and please [contact us](https://www.heartofnewhaven.co.uk/contact) if you have allergies or other requirements."
 
 ## Advice Centres
 

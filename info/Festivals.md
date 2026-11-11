@@ -9,10 +9,15 @@ Edinburgh is blessed with a several festivals over the year. The list below summ
 Edinburgh Science Festival - 2026 dates -  4th–19th April
 Further information and guidance on events can be [found on their website](https://www.edinburghscience.co.uk/festival/).
 
+## MAY
+
+Edinburgh Marathon Festival (Last weekend of the month)
+
 ## JUNE
 
 Leith Festival - June 2026 (Dates TBC).
 Further information can be [found on their website](https://www.leithfestival.com/).
+[Edinburgh Pride](https://www.prideedinburgh.org/)
 
 ## AUGUST
 
@@ -29,9 +34,9 @@ Performances as part of Film Festival can be [located on their website](https://
 7th-29th August 2026.
 Further information, tickets and guidance can be [found on their website](https://www.edintattoo.co.uk/).
 
-## The Fringe Festival
+## Edinburgh Festival Fringe
 
-* [EdFringe](https://www.edfringe.com/) - Primary site for the Edinburgh Fringe Festival. It will have a searchable database of all acts participating as part of the Fringe - they also have an allocation of tickets for each and every show — however, if a show is showing as sold out here, doesn't mean it's "sold out". Venues hold their own ticket allocations.
+* [EdFringe](https://www.edfringe.com/) - Primary site for the Edinburgh Festival Fringe. It will have a searchable database of all acts participating as part of the Fringe - they also have an allocation of tickets for each and every show — however, if a show is showing as sold out here, doesn't mean it's "sold out". Venues hold their own ticket allocations.
 
 ### Big Fringe venues
 

@@ -18,6 +18,7 @@
 * [MegaBus](https://www.megabus.co.uk/) also operates coaches around Scotland and beyond.
 * [National Express](https://www.nationalexpress.com/en) operates buses on a variety of routes.
 * [Flixbus](https://www.flixbus.co.uk/) also operated buses on a variety of routes.
+* [Ember](https://www.ember.to/)
 
 ## Aeroplane
 
@@ -32,3 +33,5 @@ There are a number of minibus/ coach tours that leave from Edinburgh to a wide v
 * [Go Scotland Tours](https://www.goscotlandtours.com/).
 * [Highland Explorer Tours](https://highlandexplorertours.com/3-6-day-tours).
 * [The Hairy Coo](https://www.thehairycoo.com/) - offering day tours departing from Edinburgh.
+* [Rabbie's](https://www.rabbies.com/en-gb/tours/scotland).
+* [Timberbush Tours](https://www.timberbush-tours.co.uk/).

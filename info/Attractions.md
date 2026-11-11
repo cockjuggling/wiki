@@ -14,6 +14,7 @@ This wiki is not a recommendation site and should only be used as a reference po
 * [St Giles Cathedral](https://www.stgilescathedral.org.uk/) - Access is by donation - £5 is suggested - [Opening Times](https://www.stgilescathedral.org.uk/visitor-information) - [Access Guide](https://www.stgilescathedral.org.uk/access) as this is an old building.
 * [Camera Oscura](https://www.camera-obscura.co.uk/) - [Tickets](https://www.camera-obscura.co.uk/view-tickets/) - [Opening Times](https://www.camera-obscura.co.uk/opening-hours/) - [Access Guide](https://www.camera-obscura.co.uk/accessibility/).
 * [Scottish Parliament](https://www.parliament.scot/) - Free - [Plan your visit](https://www.parliament.scot/visit/plan-your-visit) - [Opening Times](https://www.parliament.scot/visit/plan-your-visit) - [Accessibility Guide](https://www.parliament.scot/visit/plan-your-visit/accessibility-guide).
+* [Gladstone's Land](https://www.nts.org.uk/visit/places/gladstones-land) - One of the oldest buidlings on the Royal Mile - [Entrance Fees](https://www.nts.org.uk/visit/places/gladstones-land#entry-prices) - Open 10am -> 14:30 (self guided) - No accessibility guide.
 
 ## Walking Tours
 
@@ -31,3 +32,5 @@ This wiki is not a recommendation site and should only be used as a reference po
 * [Edinburgh Zoo](https://www.edinburghzoo.org.uk/) - [Tickets](https://www.edinburghzoo.org.uk/visit/tickets) - [Opening Hours](https://www.edinburghzoo.org.uk/visit/opening-hours) - [Accessibility Guide](https://www.edinburghzoo.org.uk/visit/accessibility) as it is on the side of a hill.
 * [Scott Monument](https://cultureedinburgh.com/our-venues/scott-monument) - £9 | £7 child / concession - Open 7 days a week from 10am to 3:30pm. - access is by stairs only.
 * [The Edinburgh Dungeon](https://www.thedungeons.com/).
+* [Edinburgh's Botanic Gardens](https://www.rbge.org.uk).
+* [Dynamic Earth](https://dynamicearth.org.uk/).
