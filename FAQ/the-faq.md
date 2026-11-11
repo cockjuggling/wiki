@@ -2,7 +2,7 @@
 
 ## I'm not feeling well, who should I contact?
 
--- If you are seriously ill. Dial 999.-
+-- If you are seriously ill. Dial 999.--
 
 ### Minor ailments
 
