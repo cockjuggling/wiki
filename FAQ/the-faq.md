@@ -2,7 +2,7 @@
 
 ## I'm not feeling well, who should I contact?
 
--- If you are seriously ill. Dial 999.-
+-- If you are seriously ill. Dial 999.--
 
 ### Minor ailments
 
@@ -40,6 +40,10 @@ There are websites to use that will have access to 99% of the available properti
 
 - [Gumtree](http://www.gumtree.com/flats-and-houses-for-rent/edinburgh) - mainly contains property from private landlords and some rooms to let (more about these later)  
 - [Spare Room](http://www.spareroom.co.uk) - mainly rooms to let.
+
+## Where can I see Highland cows in Edinburgh?
+
+[Swanston Farm](https://swanston.co.uk/the-farm/) on the edge of the Pentland Hills is a local suggestion for seeing Highland cows. Visitors in [this Reddit discussion](https://www.reddit.com/r/Edinburgh/comments/1xuquzj/hello_visiting_edinburgh_for_2_days_really_wanted/) recommend looking around the farm and the open areas near Swanston; one commenter suggests taking Lothian service 44 toward its terminus. Check the farm's visitor information and map, and confirm the current bus route and stop with [Lothian Buses](https://www.lothianbuses.com/) before travelling. Cows roam freely, so a sighting is not guaranteed. Keep to public paths, give the animals plenty of space and do not feed them.
 
 ## I'm moving to Edinburgh. What area should I view flat in?
 
